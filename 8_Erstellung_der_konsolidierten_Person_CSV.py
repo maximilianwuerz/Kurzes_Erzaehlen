@@ -8,31 +8,31 @@ print(personen_df.head())
 
 # 2. Schritt: Einlesen der konsolidierten Buch-CSV
 buch_df = pd.read_csv(
-    r'C:\Users\ab32ihaq\FAUbox\Dissertation\FAU\Dissertation\Arbeitspakete\4_Feldanalyse\Relationale Datenbank\20250515\20250526\Konsolidierte\2008-2023_Buch_kk_pk.csv',
+    r'C:\Pfad\zu\Konsolidierte\2008-2023_Buch_kk_pk.csv',
     sep=';', encoding='utf-8'
 )
 
 # 3. Schritt: Einlesen der konsolidierten Literaturwettbewerb_Ausgabe-CSV
 wettbewerb_df = pd.read_csv(
-    r'C:\Users\ab32ihaq\FAUbox\Dissertation\FAU\Dissertation\Arbeitspakete\4_Feldanalyse\Relationale Datenbank\20250515\20250526\Konsolidierte\Literaturwettbewerb_Ausgabe_kk_pk.csv',
+    r'C:\Pfad\zu\Konsolidierte\Literaturwettbewerb_Ausgabe_kk_pk.csv',
     sep=';', encoding='utf-8'
 )
 
 # 4. Schritt: Einlesen der konsolidierten Literaturzeitschrift_Ausgabe-CSV
 literaturzeitschrift_df = pd.read_csv(
-    r'C:\Users\ab32ihaq\FAUbox\Dissertation\FAU\Dissertation\Arbeitspakete\4_Feldanalyse\Relationale Datenbank\20250515\20250526\Konsolidierte\Literaturzeitschrift_Ausgabe_kk_pk.csv',
+    r'C:\Pfad\zu\Konsolidierte\Literaturzeitschrift_Ausgabe_kk_pk.csv',
     sep=';', encoding='utf-8'
 )
 
 # 5. Schritt: Einlesen der konsolidierten Literaturzeitschrift.csv
 literaturzeitschrift_main_df = pd.read_csv(
-    r'C:\Users\ab32ihaq\FAUbox\Dissertation\FAU\Dissertation\Arbeitspakete\4_Feldanalyse\Relationale Datenbank\20250515\20250526\Konsolidierte\Literaturzeitschrift_kk_pk.csv',
+    r'C:\Pfad\zu\Konsolidierte\Literaturzeitschrift_kk_pk.csv',
     sep=';', encoding='utf-8'
 )
 
 # 6. Schritt: Einlesen der fanfiktion_autorinneninfo.csv
 fanfiktion_autorinneninfo_df = pd.read_csv(
-    r'C:\Users\ab32ihaq\FAUbox\Dissertation\FAU\Dissertation\Arbeitspakete\4_Feldanalyse\Relationale Datenbank\20250515\20250526\Originaldateien\fanfiktion_autorinneninfo.csv',
+    r'C:\Pfad\zu\fanfiktion_autorinneninfo.csv',
     sep=';', encoding='utf-8'
 )
 
@@ -116,7 +116,7 @@ personen_df = pd.DataFrame.from_records(person_records, columns=['person_id', 'p
 
 # 13. Schritt: Speichern der konsolidierten Personendaten in eine CSV-Datei
 personen_df.to_csv(
-    r'C:\Users\ab32ihaq\FAUbox\Dissertation\FAU\Dissertation\Arbeitspakete\4_Feldanalyse\Relationale Datenbank\20250515\20250526\Konsolidierte\Person_kk_pk.csv',
+    r'C:\Pfad\zu\Konsolidierte\Person_kk_pk.csv',
     index=False, encoding='utf-8', sep=';'
 )
 

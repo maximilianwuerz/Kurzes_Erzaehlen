@@ -8,25 +8,25 @@ print(koerperschaft_df.head())
 
 # 2. Schritt: Einlesen der aktuellen Buch-CSV
 buch_df = pd.read_csv(
-    r'C:\Users\ab32ihaq\FAUbox\Dissertation\FAU\Dissertation\Arbeitspakete\4_Feldanalyse\Relationale Datenbank\20250515\20250526\Originaldateien\2008-2023_Buch.csv',
+    r'C:\Pfad\zur\2008-2023_Buch.csv',
     sep=';', encoding='utf-8'
 )
 
 # 3. Schritt: Einlesen der aktuellen Literaturwettbewerb.csv
 literaturwettbewerb_df = pd.read_csv(
-    r'C:\Users\ab32ihaq\FAUbox\Dissertation\FAU\Dissertation\Arbeitspakete\4_Feldanalyse\Relationale Datenbank\20250515\20250526\Originaldateien\Literaturwettbewerb.csv',
+    r'C:\Pfad\zur\Literaturwettbewerb.csv',
     sep=';', encoding='utf-8'
 )
 
 # 4. Schritt: Einlesen der Literaturzeitschrift.csv
 literaturzeitschrift_df = pd.read_csv(
-    r'C:\Users\ab32ihaq\FAUbox\Dissertation\FAU\Dissertation\Arbeitspakete\4_Feldanalyse\Relationale Datenbank\20250515\20250526\Originaldateien\Literaturzeitschrift.csv',
+    r'C:\Pfad\zur\Literaturzeitschrift.csv',
     sep=';', encoding='utf-8'
 )
 
 # 5. Schritt: Einlesen der Plattform_Internet.csv
 plattform_internet_df = pd.read_csv(
-    r'C:\Users\ab32ihaq\FAUbox\Dissertation\FAU\Dissertation\Arbeitspakete\4_Feldanalyse\Relationale Datenbank\20250515\20250526\Originaldateien\Plattform_Internet.csv',
+    r'C:\Pfad\zur\Plattform_Internet.csv',
     sep=';', encoding='utf-8'
 )
 
@@ -68,7 +68,7 @@ koerperschaft_df = pd.DataFrame.from_records(koerperschaft_records, columns=['ko
 
 # 8. Schritt: Speichern der Koerperschaftsdaten in eine CSV-Datei
 koerperschaft_df.to_csv(
-    r'C:\Users\ab32ihaq\FAUbox\Dissertation\FAU\Dissertation\Arbeitspakete\4_Feldanalyse\Relationale Datenbank\20250515\20250526\Originaldateien\Koerperschaft.csv',
+    r'C:\Pfad\zur\Koerperschaft.csv',
     index=False, encoding='utf-8', sep=';'
 )
 

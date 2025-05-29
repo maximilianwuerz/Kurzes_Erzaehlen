@@ -1697,19 +1697,19 @@ def konsolidiere_und_speichere(file_path, columns_to_map, mapping, save_dir):
         print(f"✅ Datei {neuer_dateiname} erfolgreich konsolidiert und gespeichert.")
 
 # Definiere den Speicherort für die konsolidierten Dateien
-save_directory = r'C:\Users\ab32ihaq\FAUbox\Dissertation\FAU\Dissertation\Arbeitspakete\4_Feldanalyse\Relationale Datenbank\20250515\20250526\Konsolidierte'
+save_directory = r'C:\Pfad\zu\neuem\Verzeichnis\Konsolidierte'
 
 # Sorge dafür, dass das Verzeichnis existiert
 os.makedirs(save_directory, exist_ok=True)
 
 # Dateipfade und Spalten zur Konsolidierung (gegebene CSV könnte mehrere Spalten enthalten)
 dateien = [
-    (r'C:\Users\ab32ihaq\FAUbox\Dissertation\FAU\Dissertation\Arbeitspakete\4_Feldanalyse\Relationale Datenbank\20250515\20250526\Originaldateien\2008-2023_Buch.csv', ['buchverlag', 'verfasser', 'herausgeber', 'uebersetzer', 'keinerolle', 'sonstige']),
-    (r'C:\Users\ab32ihaq\FAUbox\Dissertation\FAU\Dissertation\Arbeitspakete\4_Feldanalyse\Relationale Datenbank\20250515\20250526\Originaldateien\Literaturwettbewerb.csv', ['veranstalter']),
-    (r'C:\Users\ab32ihaq\FAUbox\Dissertation\FAU\Dissertation\Arbeitspakete\4_Feldanalyse\Relationale Datenbank\20250515\20250526\Originaldateien\Literaturwettbewerb_Ausgabe.csv', ['gewinner', 'jury']),
-    (r'C:\Users\ab32ihaq\FAUbox\Dissertation\FAU\Dissertation\Arbeitspakete\4_Feldanalyse\Relationale Datenbank\20250515\20250526\Originaldateien\Literaturzeitschrift.csv', ['zeitschriftverlegtvon', 'creator']),
-    (r'C:\Users\ab32ihaq\FAUbox\Dissertation\FAU\Dissertation\Arbeitspakete\4_Feldanalyse\Relationale Datenbank\20250515\20250526\Originaldateien\Literaturzeitschrift_Ausgabe.csv', ['verfasser_ke_beiträge']),
-    (r'C:\Users\ab32ihaq\FAUbox\Dissertation\FAU\Dissertation\Arbeitspakete\4_Feldanalyse\Relationale Datenbank\20250515\20250526\Originaldateien\Plattform_Internet.csv', ['unternehmen'])
+    (r'C:\Pfad\zur\2008-2023_Buch.csv', ['buchverlag', 'verfasser', 'herausgeber', 'uebersetzer', 'keinerolle', 'sonstige']),
+    (r'C:\Pfad\zur\Literaturwettbewerb.csv', ['veranstalter']),
+    (r'C:\Pfad\zur\Literaturwettbewerb_Ausgabe.csv', ['gewinner', 'jury']),
+    (r'C:\Pfad\zur\Literaturzeitschrift.csv', ['zeitschriftverlegtvon', 'creator']),
+    (r'C:\Pfad\zur\Literaturzeitschrift_Ausgabe.csv', ['verfasser_ke_beiträge']),
+    (r'C:\Pfad\zur\Plattform_Internet.csv', ['unternehmen'])
 ]
 
 

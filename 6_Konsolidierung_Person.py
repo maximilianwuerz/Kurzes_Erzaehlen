@@ -670,7 +670,7 @@ def konsolidiere_und_speichere(file_path, columns_to_map, name_mapping, save_dir
         print(f"✅ Datei {neuer_dateiname} erfolgreich konsolidiert und gespeichert.")
 
 # Definiere den Speicherort für die konsolidierten Dateien
-save_directory = r'C:\Users\ab32ihaq\FAUbox\Dissertation\FAU\Dissertation\Arbeitspakete\4_Feldanalyse\Relationale Datenbank\20250515\20250526\Konsolidierte'
+save_directory = r'C:\Pfad\zu\Konsolidierte'
 
 # Sorge dafür, dass das Verzeichnis existiert
 os.makedirs(save_directory, exist_ok=True)
@@ -678,12 +678,12 @@ os.makedirs(save_directory, exist_ok=True)
 # Dateipfade und zu konsolidierende Spalten
 dateien = [
     # Pfad zu den Dateien und die dazugehörigen Spalten
-    (r'C:\Users\ab32ihaq\FAUbox\Dissertation\FAU\Dissertation\Arbeitspakete\4_Feldanalyse\Relationale Datenbank\20250515\20250526\Konsolidierte\2008-2023_Buch_kk.csv', ['buchverlag', 'verfasser', 'herausgeber', 'uebersetzer', 'keinerolle', 'sonstige']),
-    (r'C:\Users\ab32ihaq\FAUbox\Dissertation\FAU\Dissertation\Arbeitspakete\4_Feldanalyse\Relationale Datenbank\20250515\20250526\Konsolidierte\Literaturwettbewerb_kk.csv', ['veranstalter']),
-    (r'C:\Users\ab32ihaq\FAUbox\Dissertation\FAU\Dissertation\Arbeitspakete\4_Feldanalyse\Relationale Datenbank\20250515\20250526\Konsolidierte\Literaturwettbewerb_Ausgabe_kk.csv', ['gewinner', 'jury']),
-    (r'C:\Users\ab32ihaq\FAUbox\Dissertation\FAU\Dissertation\Arbeitspakete\4_Feldanalyse\Relationale Datenbank\20250515\20250526\Konsolidierte\Literaturzeitschrift_kk.csv', ['zeitschriftverlegtvon', 'creator']),
-    (r'C:\Users\ab32ihaq\FAUbox\Dissertation\FAU\Dissertation\Arbeitspakete\4_Feldanalyse\Relationale Datenbank\20250515\20250526\Konsolidierte\Literaturzeitschrift_Ausgabe_kk.csv', ['verfasser_ke_beiträge']),
-    (r'C:\Users\ab32ihaq\FAUbox\Dissertation\FAU\Dissertation\Arbeitspakete\4_Feldanalyse\Relationale Datenbank\20250515\20250526\Konsolidierte\Plattform_Internet_kk.csv', ['unternehmen'])
+    (r'C:\Pfad\zu\Konsolidierte\2008-2023_Buch_kk.csv', ['buchverlag', 'verfasser', 'herausgeber', 'uebersetzer', 'keinerolle', 'sonstige']),
+    (r'C:\Pfad\zu\Konsolidierte\Literaturwettbewerb_kk.csv', ['veranstalter']),
+    (r'C:\Pfad\zu\Konsolidierte\Literaturwettbewerb_Ausgabe_kk.csv', ['gewinner', 'jury']),
+    (r'C:\Pfad\zu\Konsolidierte\Literaturzeitschrift_kk.csv', ['zeitschriftverlegtvon', 'creator']),
+    (r'C:\Pfad\zu\Konsolidierte\Literaturzeitschrift_Ausgabe_kk.csv', ['verfasser_ke_beiträge']),
+    (r'C:\Pfad\zu\Konsolidierte\Plattform_Internet_kk.csv', ['unternehmen'])
 ]
 
 # Konsolidiere alle Dateien

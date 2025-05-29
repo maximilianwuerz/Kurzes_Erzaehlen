@@ -691,8 +691,8 @@ koerperschaften_in_personen = [
 
 
 # Dateipfade
-person_file = r'C:\Users\ab32ihaq\FAUbox\Dissertation\FAU\Dissertation\Arbeitspakete\4_Feldanalyse\Relationale Datenbank\20250515\20250526\Konsolidierte\Person_kk_pk.csv'
-koerperschaft_file = r'C:\Users\ab32ihaq\FAUbox\Dissertation\FAU\Dissertation\Arbeitspakete\4_Feldanalyse\Relationale Datenbank\20250515\20250526\Konsolidierte\Koerperschaft_kk_pk.csv'
+person_file = r'C:\Pfad\zu\Konsolidierte\Person_kk_pk.csv'
+koerperschaft_file = r'C:\Pfad\zu\Konsolidierte\Koerperschaft_kk_pk.csv'
 
 # CSV-Dateien laden
 person_df = pd.read_csv(person_file, sep=';', encoding='utf-8')

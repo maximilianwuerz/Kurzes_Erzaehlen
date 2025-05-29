@@ -8,25 +8,25 @@ print(koerperschaft_df.head())
 
 # 2. Schritt: Einlesen der konsolidierten Buch-CSV
 buch_df = pd.read_csv(
-    r'C:\Users\ab32ihaq\FAUbox\Dissertation\FAU\Dissertation\Arbeitspakete\4_Feldanalyse\Relationale Datenbank\20250515\20250526\Konsolidierte\2008-2023_Buch_kk_pk.csv',
+    r'C:\Pfad\zu\Konsolidierte\2008-2023_Buch_kk_pk.csv',
     sep=';', encoding='utf-8'
 )
 
 # 3. Schritt: Einlesen der konsolidierten Literaturwettbewerb.csv
 literaturwettbewerb_df = pd.read_csv(
-    r'C:\Users\ab32ihaq\FAUbox\Dissertation\FAU\Dissertation\Arbeitspakete\4_Feldanalyse\Relationale Datenbank\20250515\20250526\Konsolidierte\Literaturwettbewerb_kk_pk.csv',
+    r'C:\Pfad\zu\Konsolidierte\Literaturwettbewerb_kk_pk.csv',
     sep=';', encoding='utf-8'
 )
 
 # 4. Schritt: Einlesen der konsolidierten Literaturzeitschrift.csv
 literaturzeitschrift_df = pd.read_csv(
-    r'C:\Users\ab32ihaq\FAUbox\Dissertation\FAU\Dissertation\Arbeitspakete\4_Feldanalyse\Relationale Datenbank\20250515\20250526\Konsolidierte\Literaturzeitschrift_kk_pk.csv',
+    r'C:\Pfad\zu\Konsolidierte\Literaturzeitschrift_kk_pk.csv',
     sep=';', encoding='utf-8'
 )
 
 # 5. Schritt: Einlesen der konsolidierten Plattform_Internet.csv
 plattform_internet_df = pd.read_csv(
-    r'C:\Users\ab32ihaq\FAUbox\Dissertation\FAU\Dissertation\Arbeitspakete\4_Feldanalyse\Relationale Datenbank\20250515\20250526\Konsolidierte\Plattform_Internet_kk_pk.csv',
+    r'C:\Pfad\zu\Konsolidierte\Plattform_Internet_kk_pk.csv',
     sep=';', encoding='utf-8'
 )
 
@@ -68,7 +68,7 @@ koerperschaft_df = pd.DataFrame.from_records(koerperschaft_records, columns=['ko
 
 # 8. Schritt: Speichern der konsolidierten Koerperschaftsdaten in eine CSV-Datei
 koerperschaft_df.to_csv(
-    r'C:\Users\ab32ihaq\FAUbox\Dissertation\FAU\Dissertation\Arbeitspakete\4_Feldanalyse\Relationale Datenbank\20250515\20250526\Konsolidierte\Koerperschaft_kk_pk.csv',
+    r'C:\Pfad\zu\Konsolidierte\Koerperschaft_kk_pk.csv',
     index=False, encoding='utf-8', sep=';'
 )
 

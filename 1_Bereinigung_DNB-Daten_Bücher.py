@@ -4,16 +4,16 @@
 
 import pandas as pd
 import re 
-# Einlesen der Originaldatei
+# Einlesen der Originaldatei aus dem DNB-Katalog
 df = pd.read_csv(
-    r"C:\Users\ab32ihaq\FAUbox\Dissertation\FAU\Dissertation\Arbeitspakete\4_Feldanalyse\Relationale Datenbank\20250515\20250526\Originaldateien\2008-2023_Gesamt_Buch_roh_utf8.csv",
+    r"C:\Pfad\zur\exportierten\Rohdatei\Gesamt-Buch.csv",
     sep=';', encoding='utf-8')
 
 gesamt_af = len(df)
 print(f"Originale Zeilenanzahl: {gesamt_af}")
 
 # Neues Verzeichnis für die gelöschten Zeilen
-entfernte_buch_verzeichnis = r'C:\Users\ab32ihaq\FAUbox\Dissertation\FAU\Dissertation\Arbeitspakete\4_Feldanalyse\Relationale Datenbank\20250515\20250526\Originaldateien\Entfernte_Buch'
+entfernte_buch_verzeichnis = r'C:\Pfad\zu\neuem\Verzeichnis\Entfernte_Buch'
 
 # Funktion zur Berechnung und Protokollierung der Zeilenänderungen
 def bereinigen(df, bedingung, name):
@@ -252,7 +252,7 @@ final_af = len(df)
 print(f"Ende: {final_af} Zeilen")
 
 # Speichern der bereinigten Daten
-df.to_csv(r'C:\Users\ab32ihaq\FAUbox\Dissertation\FAU\Dissertation\Arbeitspakete\4_Feldanalyse\Relationale Datenbank\20250515\20250526\Originaldateien\2008-2023_Buch.csv',
+df.to_csv(r'C:\Pfad\zum\Zielverzeichnis\2008-2023_Buch.csv',
           index=False, encoding='utf-8', sep=';')
 
 print("✅ Datei erfolgreich gespeichert.")
