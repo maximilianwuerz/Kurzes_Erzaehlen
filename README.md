@@ -25,13 +25,15 @@ Mit den unter "skripte_datenkorpus" versammelten Python-Skripten (und z.T. SQL-S
 
 Die SQL-Skripte im Verzeichnis "skripte_textkorpus" dienten dem Selektionsprozess bei der Konstitution des Textkorpus. 
 
-# Die Skripte zur Erstellung des Datenkorpus
+# Die Skripte zur Erstellung des Textkorpus
 - **Skript 17:** Details zum Skript.
 - **Skript 18:** Details zum Skript.
 - **Skript 19:** Details zum Skript.
 - **Skript 20:** Details zum Skript.
 
-Das Verzeichnis "views" enthält im Unterorder "views_sql" jene SQL-Abfragen, die bei Prüfung der Hypothesen zum Einsatz kamen, wobei die Namen der Skripte, den geprüften Hypothesen entsprechen. Im Unterordner "views_csv" finden sich Abzüge der so erstellten Views als CSV-Dateien. 
+# Das Verzeichnis "views" 
+Der Unterorder "views_sql" enthält jene SQL-Abfragen, die bei Prüfung der Hypothesen zum Einsatz kamen, wobei die Namen der Skripte, den geprüften Hypothesen entsprechen. 
+Im Unterordner "views_csv" finden sich Abzüge der so erstellten Views als CSV-Dateien. 
 
 ## Kontakt
 - Email: [maximilian.wuerz@fau.de](mailto:maximilian.wuerz@fau.de)
