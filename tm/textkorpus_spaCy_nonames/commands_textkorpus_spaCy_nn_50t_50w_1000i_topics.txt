@@ -1,0 +1,3 @@
+C:\mallet>bin\mallet import-dir --input gesamt_b_lz_srp_lw-4_pp_spaCy_nn --output textkorpus2.mallet --keep-sequence --stoplist-file C:\mallet\stoplists\de.txt
+
+C:\mallet>bin\mallet train-topics --input textkorpus_spaCy_nonames.mallet --num-topics 50 --num-iterations 1000 --num-top-words 50 --optimize-interval 20 --optimize-burn-in 50 --output-model textkorpus_spaCy_nn_50t_50w_1000i_model.gz --output-doc-topics textkorpus_spaCy_nn_50t_50w_1000i_doc_topics.txt --output-topic-keys textkorpus_spaCy_nn_50t_50w_1000i_topics.txt --diagnostics-file textkorpus_spaCy_nn_50t_50w_1000i_diagnostics.xml
