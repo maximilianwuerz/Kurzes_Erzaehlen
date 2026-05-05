@@ -1,0 +1,224 @@
+konsekr_id;jahr;preis;autor_name;person_id;buch
+k1;1951;Georg-Büchner-Preis;Benn, Gottfried;;
+k3;1954;Georg-Büchner-Preis;Kessel, Martin;;
+k5;1956;Georg-Büchner-Preis;Krolow, Karl;;
+k9;1960;Georg-Büchner-Preis;Celan, Paul;;
+k10;1961;Georg-Büchner-Preis;Nossack, Hans Erich;;
+k11;1962;Georg-Büchner-Preis;Koeppen, Wolfgang;;
+k15;1966;Georg-Büchner-Preis;Hildesheimer, Wolfgang;;
+k17;1968;Georg-Büchner-Preis;Mann, Golo;;
+k18;1969;Georg-Büchner-Preis;Heißenbüttel, Helmut;;
+k20;1971;Georg-Büchner-Preis;Johnson, Uwe;;
+k21;1972;Georg-Büchner-Preis;Canetti, Elias;;
+k22;1973;Georg-Büchner-Preis;Handke, Peter;;
+k23;1974;Georg-Büchner-Preis;Kesten, Hermann;;
+k24;1975;Georg-Büchner-Preis;Sperber, Manès;;
+k25;1976;Georg-Büchner-Preis;Piontek, Heinz;;
+k27;1978;Georg-Büchner-Preis;Lenz, Hermann;;
+k28;1979;Georg-Büchner-Preis;Meister, Ernst;;
+k31;1982;Georg-Büchner-Preis;Weiss, Peter;;
+k33;1984;Georg-Büchner-Preis;Jandl, Ernst;;
+k34;1985;Georg-Büchner-Preis;Müller, Heiner;;
+k36;1987;Georg-Büchner-Preis;Fried, Erich;;
+k39;1990;Georg-Büchner-Preis;Dorst, Tankred;;
+k40;1991;Georg-Büchner-Preis;Biermann, Wolf;;
+k41;1992;Georg-Büchner-Preis;Tabori, George;;
+k45;1996;Georg-Büchner-Preis;Kirsch, Sarah;;
+k46;1997;Georg-Büchner-Preis;Artmann, H. C.;;
+k47;1998;Georg-Büchner-Preis;Jelinek, Elfriede;;
+k50;2001;Georg-Büchner-Preis;Mayröcker, Friederike;;
+k53;2004;Georg-Büchner-Preis;Genazino, Wilhelm;;
+k55;2006;Georg-Büchner-Preis;Pastior, Oskar;;
+k57;2008;Georg-Büchner-Preis;Winkler, Josef;;
+k60;2011;Georg-Büchner-Preis;Delius, Friedrich Christian;;
+k63;2014;Georg-Büchner-Preis;Becker, Jürgen;;
+k64;2015;Georg-Büchner-Preis;Goetz, Rainald;;
+k66;2017;Georg-Büchner-Preis;Wagner, Jan;;
+k69;2020;Georg-Büchner-Preis;Erb, Elke;;
+k73;2024;Georg-Büchner-Preis;Egger, Oswald;;
+k79;2005;SL Deutscher Buchpreis;Lustiger, Gila;;So sind wir
+k80;2005;SL Deutscher Buchpreis;Mayröcker, Friederike;;Und ich schüttelte einen Liebling
+k96;2008;SL Deutscher Buchpreis;Hanika, Iris;;Treffen sich zwei
+k97;2008;SL Deutscher Buchpreis;Lappert, Rolf;;Nach Hause schwimmen
+k100;2009;SL Deutscher Buchpreis;Merkel, Rainer;;Lichtjahre entfernt
+k101;2009;SL Deutscher Buchpreis;Müller, Herta;;Atemschaukel
+k102;2009;SL Deutscher Buchpreis;Scheuer, Norbert;;Überm Rauschen
+k177;2022;Deutscher Buchpreis;de l'Horizon, Kim;P20408;Blutbuch
+k104;2009;SL Deutscher Buchpreis;Thome, Stephan;;Grenzgang
+k105;2010;Deutscher Buchpreis;Abonji, Melinda Nadj;;Tauben fliegen auf
+k106;2010;SL Deutscher Buchpreis;Faktor, Jan;;Georgs Sorgen um die Vergangenheit oder im Reich des heiligen Hodensack-Bimbams von Prag
+k149;2017;SL Deutscher Buchpreis;Franzobel;P4711;Das Floß der Medusa
+k108;2010;SL Deutscher Buchpreis;Rabinovici, Doron;;Andernorts
+k111;2011;Deutscher Buchpreis;Ruge, Eugen;;In Zeiten des abnehmenden Lichts
+k118;2012;SL Deutscher Buchpreis;Augustin, Ernst;;Robinsons blaues Haus
+k119;2012;SL Deutscher Buchpreis;Herrndorf, Wolfgang;;Sand
+k121;2012;SL Deutscher Buchpreis;Thome, Stephan;;Fliehkräfte
+k128;2013;SL Deutscher Buchpreis;Zeiner, Monika;;Die Ordnung der Sterne über Como
+k132;2014;SL Deutscher Buchpreis;Leutenegger, Gertrud;;Panischer Frühling
+k134;2014;SL Deutscher Buchpreis;Steinfest, Heinrich;;Der Allesforscher
+k137;2015;SL Deutscher Buchpreis;Lappert, Rolf;;Über den Winter
+k141;2016;Deutscher Buchpreis;Kirchhoff, Bodo;;Widerfahrnis
+k143;2016;SL Deutscher Buchpreis;Kubiczek, André;;Skizze eines Sommers
+k148;2017;SL Deutscher Buchpreis;Falkner, Gerhard;;Romeo oder Julia
+k152;2017;SL Deutscher Buchpreis;Salzmann, Sasha Marianna;;Außer sich
+k154;2018;SL Deutscher Buchpreis;Barbetta, María Cecilia;;Nachtleuchten
+k156;2018;SL Deutscher Buchpreis;Haratischwili, Nino;;Die Katze und der General
+k158;2018;SL Deutscher Buchpreis;Thome, Stephan;;Gott der Barbaren
+k161;2019;SL Deutscher Buchpreis;Kühmel, Miku Sophie;;Kintsugi
+k162;2019;SL Deutscher Buchpreis;Schachinger, Tonio;;Nicht wie ihr
+k163;2019;SL Deutscher Buchpreis;Scheuer, Norbert;;Winterbienen
+k164;2019;SL Deutscher Buchpreis;Thomae, Jackie;;Brüder
+k169;2020;SL Deutscher Buchpreis;Ohde, Deniz;;Streulicht
+k170;2020;SL Deutscher Buchpreis;Wunnicke, Christine;;Die Dame mit der bemalten Hand
+k174;2021;SL Deutscher Buchpreis;Kracht, Christian;;Eurotrash
+k175;2021;SL Deutscher Buchpreis;Kunst, Thomas;;Zandschower Klinken
+k179;2022;SL Deutscher Buchpreis;Bilkau, Kristine;;Nebenan
+k181;2022;SL Deutscher Buchpreis;Faktor, Jan;;Trottel
+k211;2010;Kleist-Preis;Schirach, Ferdinand von;P15508;
+k183;2023;Deutscher Buchpreis;Schachinger, Tonio;;Echtzeitalter
+k186;2023;SL Deutscher Buchpreis;Rabe, Anne;;Die Möglichkeit von Glück
+k187;2023;SL Deutscher Buchpreis;Schenk, Sylvie;;Maman
+k188;2023;SL Deutscher Buchpreis;Sterblich, Ulrike;;Drifter
+k190;1986;Kleist-Preis;Kempff, Diana;;
+k191;1987;Kleist-Preis;Brasch, Thomas;;
+k192;1988;Kleist-Preis;Horstmann, Ulrich;;
+k193;1989;Kleist-Preis;Augustin, Ernst;;
+k194;1990;Kleist-Preis;Müller, Heiner;;
+k197;1993;Kleist-Preis;Jandl, Ernst;;
+k198;1994;Kleist-Preis;Müller, Herta;;
+k200;1998;Kleist-Preis;von Petersdorff, Dirk;;
+k201;2000;Kleist-Preis;Honigmann, Barbara;;
+k206;2005;Kleist-Preis;Jonke, Gert;;
+k208;2007;Kleist-Preis;Genazino, Wilhelm;;
+k209;2008;Kleist-Preis;Goldt, Max;;
+k213;2012;Kleist-Preis;Kermani, Navid;;
+k217;2016;Kleist-Preis;Tawada, Yōko;;
+k223;2023;Kleist-Preis;Kunst, Thomas;;
+k178;2022;SL Deutscher Buchpreis;Aydemir, Fatma;P622;Dschinns
+k13;1964;Georg-Büchner-Preis;Bachmann, Ingeborg;P675;
+k19;1970;Georg-Büchner-Preis;Bernhard, Thomas;P1364;
+k65;2016;Georg-Büchner-Preis;Beyer, Marcel;P1438;
+k215;2014;Kleist-Preis;Beyer, Marcel;P1438;
+k155;2018;SL Deutscher Buchpreis;Biller, Maxim;P1509;Sechs Koffer
+k166;2020;SL Deutscher Buchpreis;Bjerg, Bov;P1580;Serpentinen
+k124;2013;SL Deutscher Buchpreis;Bonné, Mirko;P1816;Nie mehr Nacht
+k112;2011;SL Deutscher Buchpreis;Brandt, Jan;P1975;Gegen die Welt
+k49;2000;Georg-Büchner-Preis;Braun, Volker;P2011;
+k113;2011;SL Deutscher Buchpreis;Buselmeier, Michael;P2403;Wunsiedel
+k68;2019;Georg-Büchner-Preis;Bärfuss, Lukas;P2446;
+k16;1967;Georg-Büchner-Preis;Böll, Heinrich;P2503;
+k94;2008;SL Deutscher Buchpreis;Dath, Dietmar;P3088;Die Abschaffung der Arten
+k167;2020;SL Deutscher Buchpreis;Elmiger, Dorothee;P3489;Aus der Zuckerfabrik
+k37;1988;Georg-Büchner-Preis;Drach, Albert;P3510;
+k180;2022;SL Deutscher Buchpreis;Dröscher, Daniela;P3583;Lügen über meine Mutter
+k35;1986;Georg-Büchner-Preis;Dürrenmatt, Friedrich;P3696;
+k160;2019;SL Deutscher Buchpreis;Edelbauer, Raphaela;P3762;Das flüssige Land
+k8;1959;Georg-Büchner-Preis;Eich, Günter;P3846;
+k12;1963;Georg-Büchner-Preis;Enzensberger, Hans Magnus;P4054;
+k136;2015;SL Deutscher Buchpreis;Erpenbeck, Jenny;P4111;Gehen, ging, gegangen
+k95;2008;SL Deutscher Buchpreis;Fatah, Sherko;P4264;Das dunkle Schiff
+k87;2007;Deutscher Buchpreis;Franck, Julia;P4664;Die Mittagsfrau
+k7;1958;Georg-Büchner-Preis;Frisch, Max;P4846;
+k75;2005;Deutscher Buchpreis;Geiger, Arno;P5183;Es geht uns gut
+k88;2007;SL Deutscher Buchpreis;Glavinic, Thomas;P5403;Das bin doch ich
+k14;1965;Georg-Büchner-Preis;Grass, Günter;P5604;
+k44;1995;Georg-Büchner-Preis;Grünbein, Durs;P5886;
+k172;2021;SL Deutscher Buchpreis;Gstrein, Norbert;P5920;Der zweite Jakob
+k81;2006;Deutscher Buchpreis;Hacker, Katharina;P6189;Die Habenichtse
+k173;2021;SL Deutscher Buchpreis;Helfer, Monika;P6795;Vati
+k202;2001;Kleist-Preis;Hermann, Judith;P6963;
+k82;2006;SL Deutscher Buchpreis;Hettche, Thomas;P7052;Woraus wir gemacht sind
+k130;2014;SL Deutscher Buchpreis;Hettche, Thomas;P7052;Pfaueninsel
+k168;2020;SL Deutscher Buchpreis;Hettche, Thomas;P7052;Herzfaden
+k51;2002;Georg-Büchner-Preis;Hilbig, Wolfgang;P7117;
+k61;2012;Georg-Büchner-Preis;Hoppe, Felicitas;P7444;
+k59;2010;Georg-Büchner-Preis;Jirgl, Reinhard;P8054;
+k125;2013;SL Deutscher Buchpreis;Jirgl, Reinhard;P8054;Nichts von euch auf Erden
+k142;2016;SL Deutscher Buchpreis;Kaiser-Mühlecker, Reinhard;P8297;Fremde Seele, dunkler Wald
+k58;2009;Georg-Büchner-Preis;Kappacher, Walter;P8382;
+k4;1955;Georg-Büchner-Preis;Kaschnitz, Marie Luise;P8446;
+k76;2005;SL Deutscher Buchpreis;Kehlmann, Daniel;P8537;Die Vermessung der Welt
+k207;2006;Kleist-Preis;Kehlmann, Daniel;P8537;
+k222;2022;Kleist-Preis;Kinsky, Esther;P8775;
+k52;2003;Georg-Büchner-Preis;Kluge, Alexander;P9001;
+k189;1985;Kleist-Preis;Kluge, Alexander;P9001;
+k114;2011;SL Deutscher Buchpreis;Klüssendorf, Angelika;P9021;Das Mädchen
+k131;2014;SL Deutscher Buchpreis;Klüssendorf, Angelika;P9021;April
+k83;2006;SL Deutscher Buchpreis;Schulze, Ingo;P16145;Neue Leben
+k196;1992;Kleist-Preis;Maron, Monika;P11274;
+k98;2008;SL Deutscher Buchpreis;Schulze, Ingo;P16145;Adam und Evelyn
+k74;2025;Georg-Büchner-Preis;Krechel, Ursula;P9447;
+k117;2012;Deutscher Buchpreis;Krechel, Ursula;P9447;Landgericht
+k2;1953;Georg-Büchner-Preis;Kreuder, Ernst;P9490;
+k54;2005;Georg-Büchner-Preis;Kronauer, Brigitte;P9544;
+k26;1977;Georg-Büchner-Preis;Kunze, Reiner;P9723;
+k6;1957;Georg-Büchner-Preis;Kästner, Erich;P9818;
+k89;2007;SL Deutscher Buchpreis;Köhlmeier, Michael;P9852;Abendland
+k90;2007;SL Deutscher Buchpreis;Lange-Müller, Katja;P10121;Böse Schafe
+k214;2013;Kleist-Preis;Lange-Müller, Katja;P10121;
+k77;2005;SL Deutscher Buchpreis;Lehr, Thomas;P10322;42
+k107;2010;SL Deutscher Buchpreis;Lehr, Thomas;P10322;September. Fata Morgana
+k150;2017;SL Deutscher Buchpreis;Lehr, Thomas;P10322;Schlafende Sonne
+k62;2013;Georg-Büchner-Preis;Lewitscharoff, Sibylle;P10480;
+k115;2011;SL Deutscher Buchpreis;Lewitscharoff, Sibylle;P10480;Blumenberg
+k212;2011;Kleist-Preis;Lewitscharoff, Sibylle;P10480;
+k78;2005;SL Deutscher Buchpreis;Loschütz, Gert;P10762;Dunkle Gesellschaft
+k138;2015;SL Deutscher Buchpreis;Mahlke, Inger-Maria;P11059;Wie Ihr wollt
+k153;2018;Deutscher Buchpreis;Mahlke, Inger-Maria;P11059;Archipel
+k133;2014;SL Deutscher Buchpreis;Melle, Thomas;P11628;3000 Euro
+k144;2016;SL Deutscher Buchpreis;Melle, Thomas;P11628;Die Welt im Rücken
+k147;2017;Deutscher Buchpreis;Menasse, Robert;P11641;Die Hauptstadt
+k126;2013;SL Deutscher Buchpreis;Meyer, Clemens;P11736;Im Stein
+k67;2018;Georg-Büchner-Preis;Mora, Terézia;P12004;
+k123;2013;Deutscher Buchpreis;Mora, Terézia;P12004;Das Ungeheuer
+k184;2023;SL Deutscher Buchpreis;Mora, Terézia;P12004;Muna oder Die Hälfte des Lebens
+k56;2007;Georg-Büchner-Preis;Mosebach, Martin;P12060;
+k91;2007;SL Deutscher Buchpreis;Mosebach, Martin;P12060;Der Mond und das Mädchen
+k203;2002;Kleist-Preis;Mosebach, Martin;P12060;
+k43;1994;Georg-Büchner-Preis;Muschg, Adolf;P12148;
+k182;2022;SL Deutscher Buchpreis;Nickel, Eckhart;P12624;Spitzweg
+k204;2003;Kleist-Preis;Ostermaier, Albert;P12997;
+k139;2015;SL Deutscher Buchpreis;Peltzer, Ulrich;P13263;Das bessere Leben
+k127;2013;SL Deutscher Buchpreis;Poschmann, Marion;P13685;Die Sonnenposition
+k151;2017;SL Deutscher Buchpreis;Poschmann, Marion;P13685;Die Kieferninseln
+k220;2019;Kleist-Preis;Rakusa, Ilma;P13990;
+k219;2018;Kleist-Preis;Ransmayr, Christoph;P14023;
+k216;2015;Kleist-Preis;Rinck, Monika;P14526;
+k218;2017;Kleist-Preis;Rothmann, Ralf;P14799;
+k157;2018;SL Deutscher Buchpreis;Röckel, Susanne;P14948;Der Vogelgott
+k42;1993;Georg-Büchner-Preis;Rühmkorf, Peter;P15005;
+k195;1991;Kleist-Preis;Salvatore, Gaston;P15113;
+k176;2021;SL Deutscher Buchpreis;Sanyal, Mithu;P15169;Identitti
+k145;2016;SL Deutscher Buchpreis;Schmidt, Eva;P15656;Ein langes Jahr
+k99;2009;Deutscher Buchpreis;Schmidt, Kathrin;P15673;Du stirbst nicht
+k32;1983;Georg-Büchner-Preis;Schnurre, Wolfdietrich;P15896;
+k140;2015;SL Deutscher Buchpreis;Schwitter, Monique;P16322;Eins im Andern
+k199;1996;Kleist-Preis;Schädlich, Hans Joachim;P16339;
+k72;2023;Georg-Büchner-Preis;Seiler, Lutz;P16567;
+k129;2014;Deutscher Buchpreis;Seiler, Lutz;P16567;Kruso
+k70;2021;Georg-Büchner-Preis;Setz, Clemens J.;P16625;
+k103;2009;SL Deutscher Buchpreis;Setz, Clemens J.;P16625;Die Frequenzen
+k120;2012;SL Deutscher Buchpreis;Setz, Clemens J.;P16625;Indigo
+k221;2020;Kleist-Preis;Setz, Clemens J.;P16625;
+k48;1999;Georg-Büchner-Preis;Stadler, Arnold;P17121;
+k210;2009;Kleist-Preis;Stadler, Arnold;P17121;
+k84;2006;SL Deutscher Buchpreis;Stanišić, Saša;P17161;Wie der Soldat das Grammofon repariert
+k159;2019;Deutscher Buchpreis;Stanišić, Saša;P17161;Herkunft
+k38;1989;Georg-Büchner-Preis;Strauß, Botho;P17534;
+k116;2011;SL Deutscher Buchpreis;Streeruwitz, Marlene;P17553;Die Schmerzmacherin
+k171;2021;Deutscher Buchpreis;Strubel, Antje Rávik;P17605;Blaue Frau
+k93;2008;Deutscher Buchpreis;Tellkamp, Uwe;P17926;Der Turm
+k85;2006;SL Deutscher Buchpreis;Trojanow, Ilija;P18284;Der Weltensammler
+k30;1981;Georg-Büchner-Preis;Walser, Martin;P18934;
+k86;2006;SL Deutscher Buchpreis;Walser, Martin;P18934;Angstblüte
+k109;2010;SL Deutscher Buchpreis;Wawerzinek, Peter;P19031;Rabenliebe
+k165;2020;Deutscher Buchpreis;Weber, Anne;P19040;Annette, ein Heldinnenepos
+k146;2016;SL Deutscher Buchpreis;Winkler, Philipp;P19662;Hool
+k135;2015;Deutscher Buchpreis;Witzel, Frank;P19775;Die Erfindung der Roten Armee Fraktion durch einen manisch-depressiven Teenager im Sommer 1969
+k29;1980;Georg-Büchner-Preis;Wolf, Christa;P19829;
+k110;2010;SL Deutscher Buchpreis;Zander, Judith;P20103;Dinge, die wir heute sagten
+k122;2012;SL Deutscher Buchpreis;Ziegler, Ulf Erdmann;P20218;Nichts Weißes
+k92;2007;SL Deutscher Buchpreis;von Steinaecker, Thomas;P20603;Wallner beginnt zu fliegen
+k71;2022;Georg-Büchner-Preis;Özdamar, Emine Sevgi;P20638;
+k205;2004;Kleist-Preis;Özdamar, Emine Sevgi;P20638;
+k185;2023;SL Deutscher Buchpreis;Öziri, Necati;P20642;Vatermal

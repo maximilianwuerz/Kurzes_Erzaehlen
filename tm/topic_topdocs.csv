@@ -1,0 +1,73 @@
+topic_id,rank,docidx,docpath,year,segmentcode,author,title,weight,topic_col
+1,1,449,file:/C:/mallet/textkorpus/final_txtonly/2012_LZ_SINN_2_Thomas-Böhme_Das-Verzeihkabinett_pp.txt,2012,LZ,2,Thomas Böhme Das Verzeihkabinett,0.3020210427878227,t1
+1,2,33,file:/C:/mallet/textkorpus/final_txtonly/2008_LW_Schreibwettbewerb-Literaturhaus-Zürich_04_Daniel-Mezger_Hier-ist-eine-Geschichte_pp.txt,2008,LW,04,Daniel Mezger Hier ist eine Geschichte,0.1929441855815886,t1
+1,3,87,file:/C:/mallet/textkorpus/final_txtonly/2009_B_Ich-kann-jeder-sagen_Robert-Menasse_Glück-in-Luxemburg_pp.txt,2009,B,Robert Menasse,Glück in Luxemburg,0.1635903520015302,t1
+4,1,1123,file:/C:/mallet/textkorpus/final_txtonly/2019_OP_FF_Buecherwurm12_Am-Meer_5d5c2797000b24997d12564_pp.txt,2019,OP,Buecherwurm12,Am Meer 5d5c2797000b24997d12564,0.328149742371056,t4
+4,2,1274,file:/C:/mallet/textkorpus/final_txtonly/2020_OP_FF_Fiomymi_gruene-Wellen_5f7f3be30005f6233518d7bb_pp.txt,2020,OP,Fiomymi,gruene Wellen 5f7f3be30005f6233518d7bb,0.3065038051642343,t4
+4,3,447,file:/C:/mallet/textkorpus/final_txtonly/2012_LW_Schreibwettbewerb-Literaturhaus-Zürich_10_Romana-Ganzoni_Die-Gewissheit_pp.txt,2012,LW,10,Romana Ganzoni Die Gewissheit,0.2110693632453818,t4
+5,1,1525,file:/C:/mallet/textkorpus/final_txtonly/2022_OP_FF_Willow-Faith_Waehle-den-Weg_6278079d000d6b57223c2145_pp.txt,2022,OP,Willow Faith,Waehle den Weg 6278079d000d6b57223c2145,0.3901535274626537,t5
+5,2,132,file:/C:/mallet/textkorpus/final_txtonly/2009_LZ_SPRITZ_189_Michaela-Heissenberger_Das-Tier_pp.txt,2009,LZ,189,Michaela Heissenberger Das Tier,0.3371619036351791,t5
+5,3,1010,file:/C:/mallet/textkorpus/final_txtonly/2018_OP_FF_Pfaffenhut_Land_5b48fb2d00033be61d172c52_pp.txt,2018,OP,Pfaffenhut,Land 5b48fb2d00033be61d172c52,0.3027590416172467,t5
+8,1,262,file:/C:/mallet/textkorpus/final_txtonly/2011_B_Der-Stein_Franz-Hohler_Ein-Nachmittag-bei-Monsieur-Rousseau_pp.txt,2011,B,Franz Hohler,Ein Nachmittag bei Monsieur Rousseau,0.2900428331962523,t8
+8,2,1172,file:/C:/mallet/textkorpus/final_txtonly/2019_OP_FF_Thomas-Heinrich_Der-schoene-Juengling_5ca78071000715922f3dcf93_pp.txt,2019,OP,Thomas Heinrich,Der schoene Juengling 5ca78071000715922f3dcf93,0.262223902530019,t8
+8,3,411,file:/C:/mallet/textkorpus/final_txtonly/2012_B_Kleine-Polizei-im-Schnee_Dietmar-Dath_Verliebte-Scheu_pp.txt,2012,B,Dietmar Dath,Verliebte Scheu,0.2444845111330613,t8
+11,1,851,file:/C:/mallet/textkorpus/final_txtonly/2016_OP_FF_wxitelxly_Der-Biologieunterricht-des-Schreckens_573f2a100004c1dff450cc8_pp.txt,2016,OP,wxitelxly,Der Biologieunterricht des Schreckens 573f2a100004c1dff450cc8,0.3637849518775275,t11
+11,2,1603,file:/C:/mallet/textkorpus/final_txtonly/2023_OP_FF_Thomas-Heinrich_Droehnendes-Schweigen_65295b7700071592322433cf_pp.txt,2023,OP,Thomas Heinrich,Droehnendes Schweigen 65295b7700071592322433cf,0.2791300362982645,t11
+11,3,886,file:/C:/mallet/textkorpus/final_txtonly/2017_LW_Schreibwettbewerb-Literaturhaus-Zürich_09_Marisa-Liehner_In-Ordnung_pp.txt,2017,LW,09,Marisa Liehner In Ordnung,0.2442577403278825,t11
+13,1,241,file:/C:/mallet/textkorpus/final_txtonly/2011_B_Der-Geruch-von-Glück_Zehra-Cirak_Scheideweg_pp.txt,2011,B,Zehra Cirak,Scheideweg,0.3921934221194226,t13
+13,2,235,file:/C:/mallet/textkorpus/final_txtonly/2011_B_Der-Geruch-von-Glück_Zehra-Cirak_Liebestod_pp.txt,2011,B,Zehra Cirak,Liebestod,0.3559066901681935,t13
+13,3,247,file:/C:/mallet/textkorpus/final_txtonly/2011_B_Der-Geruch-von-Glück_Zehra-Cirak_Verlust-am-Ende-des-Weges_pp.txt,2011,B,Zehra Cirak,Verlust am Ende des Weges,0.3539093014684745,t13
+20,1,862,file:/C:/mallet/textkorpus/final_txtonly/2017_B_Die-stillen-Trabanten_Clemens-Meyer_Unterm-Eis_pp.txt,2017,B,Clemens Meyer,Unterm Eis,0.2593007129753647,t20
+20,2,6,file:/C:/mallet/textkorpus/final_txtonly/2008_B_Schwarz-ohne-alles_Gabriele-Wohmann_Im-Karijini-Park_pp.txt,2008,B,Gabriele Wohmann,Im Karijini Park,0.2468427335096347,t20
+20,3,1200,file:/C:/mallet/textkorpus/final_txtonly/2020_B_Hotel-der-Schlaflosen_Ralf-Rothmann_Admiral-Frost_pp.txt,2020,B,Ralf Rothmann,Admiral Frost,0.2434125778991,t20
+22,1,1212,file:/C:/mallet/textkorpus/final_txtonly/2020_LW_Bachmann_Bachmannpreis_Helga-Schubert_Vom-Aufstehen_AUSZUG_pp.txt,2020,LW,Bachmannpreis,Helga Schubert Vom Aufstehen AUSZUG,0.3189857814698686,t22
+22,2,1328,file:/C:/mallet/textkorpus/final_txtonly/2021_B_Vom-Aufstehen_Helga-Schubert_Vom-Aufstehen_pp.txt,2021,B,Helga Schubert,Vom Aufstehen,0.3188527399032144,t22
+22,3,1310,file:/C:/mallet/textkorpus/final_txtonly/2021_B_Vom-Aufstehen_Helga-Schubert_Das-eingelöste-Versprechen_pp.txt,2021,B,Helga Schubert,Das eingelöste Versprechen,0.3029005785854848,t22
+27,1,481,file:/C:/mallet/textkorpus/final_txtonly/2013_B_Irgendwann-ist-Schluss_Markus-Orths_Shot-to-Nothing_pp.txt,2013,B,Markus Orths,Shot to Nothing,0.3297643300984681,t27
+27,2,140,file:/C:/mallet/textkorpus/final_txtonly/2009_LZ_SPRITZ_190_Jürgen-Theobaldy_Am-Ball_pp.txt,2009,LZ,190,Jürgen Theobaldy Am Ball,0.306442985443601,t27
+27,3,513,file:/C:/mallet/textkorpus/final_txtonly/2013_LW_Schreibwettbewerb-Literaturhaus-Zürich_05_Cédric-Weidmann_Eine-Chance_pp.txt,2013,LW,05,Cédric Weidmann Eine Chance,0.2789609438784993,t27
+29,1,1259,file:/C:/mallet/textkorpus/final_txtonly/2020_OP_FF_Aliana-Trapp_Sehnsuchtsvoll-Tabitha_5e6e479500099c28189abff6_pp.txt,2020,OP,Aliana Trapp,Sehnsuchtsvoll Tabitha 5e6e479500099c28189abff6,0.2479917328338472,t29
+29,2,1096,file:/C:/mallet/textkorpus/final_txtonly/2019_LW_Schreibwettbewerb-Literaturhaus-Zürich_08_Dieter-Boller_Wiedersehen-im-Hamam_pp.txt,2019,LW,08,Dieter Boller Wiedersehen im Hamam,0.2073128615825674,t29
+29,3,765,file:/C:/mallet/textkorpus/final_txtonly/2016_B_Lettipark_Judith-Hermann_Lettipark_pp.txt,2016,B,Judith Hermann,Lettipark,0.1909741545911714,t29
+31,1,77,file:/C:/mallet/textkorpus/final_txtonly/2009_B_Ich-kann-jeder-sagen_Robert-Menasse_Anekdoten-mit-Toten_pp.txt,2009,B,Robert Menasse,Anekdoten mit Toten,0.308630184048356,t31
+31,2,1314,file:/C:/mallet/textkorpus/final_txtonly/2021_B_Vom-Aufstehen_Helga-Schubert_Der-erste-Tag-im-Jahr_pp.txt,2021,B,Helga Schubert,Der erste Tag im Jahr,0.2519518410440537,t31
+31,3,365,file:/C:/mallet/textkorpus/final_txtonly/2012_B_Die-Liebe-zur-Zeit-des-Mahlstädter-Kindes_Clemens-Setz_Die-Vase_pp.txt,2012,B,Clemens Setz,Die Vase,0.2337741457318614,t31
+33,1,1238,file:/C:/mallet/textkorpus/final_txtonly/2020_LZ_SINN_4_Christian-Lehnert_Die-Glut_pp.txt,2020,LZ,4,Christian Lehnert Die Glut,0.2168787035447427,t33
+33,2,69,file:/C:/mallet/textkorpus/final_txtonly/2009_B_Die-Zeitwaage_Lutz-Seiler_Und-jetzt-erschießen-wir-dich-du-alter-Mann_pp.txt,2009,B,Lutz Seiler,Und jetzt erschießen wir dich du alter Mann,0.2118617689236791,t33
+33,3,451,file:/C:/mallet/textkorpus/final_txtonly/2012_LZ_SINN_2_Thomas-Böhme_Der-Unausschöpfbare_pp.txt,2012,LZ,2,Thomas Böhme Der Unausschöpfbare,0.195998311665721,t33
+40,1,860,file:/C:/mallet/textkorpus/final_txtonly/2017_B_Die-stillen-Trabanten_Clemens-Meyer_In-unserer-Zeit_pp.txt,2017,B,Clemens Meyer,In unserer Zeit,0.3615584830114698,t40
+40,2,1082,file:/C:/mallet/textkorpus/final_txtonly/2019_LW_Bachmann_BKS-Publikumspreis_Ronya-Othmann_Vierundsiebzig_pp.txt,2019,LW,BKS Publikumspreis,Ronya Othmann Vierundsiebzig,0.2263633926626374,t40
+40,3,621,file:/C:/mallet/textkorpus/final_txtonly/2014_OP_FF_shiorinekoi_Warmes-Blut-Gerechtigkeit-gespaltener-Kopf-Blumenkind_544919380003aef41cc44047_pp.txt,2014,OP,shiorinekoi,Warmes Blut Gerechtigkeit gespaltener Kopf Blumenkind 544919380003aef41cc44047,0.1752817851754746,t40
+42,1,54,file:/C:/mallet/textkorpus/final_txtonly/2008_LZ_SPRITZ_Sonderheft_Friedrich-Kröhnke_Mit-der-Metro-nach-Kiew_pp.txt,2008,LZ,Sonderheft,Friedrich Kröhnke Mit der Metro nach Kiew,0.240423552161832,t42
+42,2,796,file:/C:/mallet/textkorpus/final_txtonly/2016_LW_Schreibwettbewerb-Literaturhaus-Zürich_11_Roman-Seifert_Im-Nachtzug_pp.txt,2016,LW,11,Roman Seifert Im Nachtzug,0.2034919902429261,t42
+42,3,1074,file:/C:/mallet/textkorpus/final_txtonly/2019_B_Gefühlte-Zuversicht_Frank-Jakubzik_Pendlerzug-nach-Portland_pp.txt,2019,B,Frank Jakubzik,Pendlerzug nach Portland,0.2014888650517537,t42
+44,1,1440,file:/C:/mallet/textkorpus/final_txtonly/2022_B_Brauchbare-Menschen_Magdalena-Schrefel_Weltuntergang_pp.txt,2022,B,Magdalena Schrefel,Weltuntergang,0.2249579692316994,t44
+44,2,323,file:/C:/mallet/textkorpus/final_txtonly/2012_B_Der-Klang-der-Blicke_Selim-Özdogan_Dachterrasse_pp.txt,2012,B,Selim Özdogan,Dachterrasse,0.1748031971333717,t44
+44,3,564,file:/C:/mallet/textkorpus/final_txtonly/2014_LW_Münchner-KGW_Frank-Schliedermann_Breuer-Zielke-und-die-anderen_pp.txt,2014,LW,Frank Schliedermann,Breuer Zielke und die anderen,0.1692666395122808,t44
+47,1,707,file:/C:/mallet/textkorpus/final_txtonly/2015_OP_FF_Fabia_schwarz-oder-wie-es-haette-sein-koennen_567beede00006cef61c5fb6_pp.txt,2015,OP,Fabia,schwarz oder wie es haette sein koennen 567beede00006cef61c5fb6,0.2135672136154049,t47
+47,2,601,file:/C:/mallet/textkorpus/final_txtonly/2014_OP_FF_Fara-ThoRn_HalloQueen-Jacks-unheimliche-Gelueste_545324cf0002de8121af21fa_pp.txt,2014,OP,Fara ThoRn,HalloQueen Jacks unheimliche Gelueste 545324cf0002de8121af21fa,0.2116111203488409,t47
+47,3,1509,file:/C:/mallet/textkorpus/final_txtonly/2022_OP_FF_irish_Hexenzauber_6344361a0001256a1e5b4fa2_pp.txt,2022,OP,irish,Hexenzauber 6344361a0001256a1e5b4fa2,0.1589960403690523,t47
+54,1,880,file:/C:/mallet/textkorpus/final_txtonly/2017_LW_Schreibwettbewerb-Literaturhaus-Zürich_03_Marco-Schneiter_Es-war-einmal_pp.txt,2017,LW,03,Marco Schneiter Es war einmal,0.4538375009049805,t54
+54,2,1387,file:/C:/mallet/textkorpus/final_txtonly/2021_OP_FF_Aidala_Gute-Nacht-Geschichte_60630475000c7fac1cc587fc_pp.txt,2021,OP,Aidala,Gute Nacht Geschichte 60630475000c7fac1cc587fc,0.2910289740287581,t54
+54,3,1311,file:/C:/mallet/textkorpus/final_txtonly/2021_B_Vom-Aufstehen_Helga-Schubert_Das-Märchen-und-die-Erwachsene-in-mir_pp.txt,2021,B,Helga Schubert,Das Märchen und die Erwachsene in mir,0.2849253176411596,t54
+62,1,695,file:/C:/mallet/textkorpus/final_txtonly/2015_OP_FF_campohermoso_Die-zwoelf-Apostel_550db8ad0004ae9927cca752_pp.txt,2015,OP,campohermoso,Die zwoelf Apostel 550db8ad0004ae9927cca752,0.3532845443270695,t62
+62,2,294,file:/C:/mallet/textkorpus/final_txtonly/2011_LW_Schreibwettbewerb-Literaturhaus-Zürich_01_Iris-Muhl_Zwölf-Krücken_pp.txt,2011,LW,01,Iris Muhl Zwölf Krücken,0.3519740355419061,t62
+62,3,1518,file:/C:/mallet/textkorpus/final_txtonly/2022_OP_FF_PragDoma_Die-Hoelle-von-Bamberg_638eec050000738b1e7a94fa_pp.txt,2022,OP,PragDoma,Die Hoelle von Bamberg 638eec050000738b1e7a94fa,0.3399787494976458,t62
+63,1,1545,file:/C:/mallet/textkorpus/final_txtonly/2023_LW_Schreibwettbewerb-Literaturhaus-Zürich_01_Moné-Wohler_Wir-verschwinden-hier_pp.txt,2023,LW,01,Moné Wohler Wir verschwinden hier,0.3128432980721634,t63
+63,2,1027,file:/C:/mallet/textkorpus/final_txtonly/2018_OP_FF_Witness_Sekundenscherben_5ad8eb0e0002b7992ce8f17e_pp.txt,2018,OP,Witness,Sekundenscherben 5ad8eb0e0002b7992ce8f17e,0.2008966525764137,t63
+63,3,180,file:/C:/mallet/textkorpus/final_txtonly/2010_LW_Schreibwettbewerb-Literaturhaus-Zürich_06_Andreas-Gruber_Raum-Nr.7_pp.txt,2010,LW,06,Andreas Gruber Raum Nr.7,0.1605645301419514,t63
+64,1,81,file:/C:/mallet/textkorpus/final_txtonly/2009_B_Ich-kann-jeder-sagen_Robert-Menasse_Das%20Ende%20des%20Hungerwinters_pp.txt,2009,B,Robert Menasse,Das%20Ende%20des%20Hungerwinters,0.2261265029980078,t64
+64,2,120,file:/C:/mallet/textkorpus/final_txtonly/2009_LW_Schreibwettbewerb-Literaturhaus-Zürich_04_Jan-Arn_Die-Krähe_pp.txt,2009,LW,04,Jan Arn Die Krähe,0.1949055375782142,t64
+64,3,1077,file:/C:/mallet/textkorpus/final_txtonly/2019_B_Gefühlte-Zuversicht_Frank-Jakubzik_Zwei-japanische-Fabeln_Grausamkeit_pp.txt,2019,B,Frank Jakubzik,Zwei japanische Fabeln Grausamkeit,0.1940293173189085,t64
+79,1,548,file:/C:/mallet/textkorpus/final_txtonly/2014_B_Urwaldgäste_Roman-Ehrlich_Eine-kleine-Einheit_pp.txt,2014,B,Roman Ehrlich,Eine kleine Einheit,0.2492831025838677,t79
+79,2,1279,file:/C:/mallet/textkorpus/final_txtonly/2020_OP_FF_Lifegamer_Minidrache_5eb17c6400032b7919365ef3_pp.txt,2020,OP,Lifegamer,Minidrache 5eb17c6400032b7919365ef3,0.2037144664966833,t79
+79,3,1252,file:/C:/mallet/textkorpus/final_txtonly/2020_LZ_SPRITZ_233_Marlen-Pelny_Als-ich-einmal-fast-berühmt-wurde_pp.txt,2020,LZ,233,Marlen Pelny Als ich einmal fast berühmt wurde,0.1706908396609572,t79
+86,1,405,file:/C:/mallet/textkorpus/final_txtonly/2012_B_Kleine-Polizei-im-Schnee_Dietmar-Dath_Qualitätsjournalismus_pp.txt,2012,B,Dietmar Dath,Qualitätsjournalismus,0.4411341937228763,t86
+86,2,85,file:/C:/mallet/textkorpus/final_txtonly/2009_B_Ich-kann-jeder-sagen_Robert-Menasse_Die-neuen-Leiden-des-fremden-Freunds_pp.txt,2009,B,Robert Menasse,Die neuen Leiden des fremden Freunds,0.3061655280736041,t86
+86,3,58,file:/C:/mallet/textkorpus/final_txtonly/2008_OP_FF_Traeumer_Volk-ohne-Revolution_48426646000052900c907530_pp.txt,2008,OP,Traeumer,Volk ohne Revolution 48426646000052900c907530,0.2601748331072244,t86
+87,1,441,"file:/C:/mallet/textkorpus/final_txtonly/2012_LW_Schreibwettbewerb-Literaturhaus-Zürich_04_Samira-El-Maawi_Von-meinem-Vater,-seiner-Küche-und-meinen-Sorgen_pp.txt",2012,LW,04,"Samira El Maawi Von meinem Vater, seiner Küche und meinen Sorgen",0.3063615734438313,t87
+87,2,963,file:/C:/mallet/textkorpus/final_txtonly/2018_LW_Schreibwettbewerb-Literaturhaus-Zürich_09_Isabel-Folie_Das-leere-Gewicht_pp.txt,2018,LW,09,Isabel Folie Das leere Gewicht,0.2671425430708402,t87
+87,3,110,file:/C:/mallet/textkorpus/final_txtonly/2009_LW_Münchner-KGW_2_Nicole-Makarewicz_Heisshunger_pp.txt,2009,LW,2,Nicole Makarewicz Heisshunger,0.2573973647303145,t87
+91,1,1550,"file:/C:/mallet/textkorpus/final_txtonly/2023_LW_Schreibwettbewerb-Literaturhaus-Zürich_08_Ingrid-Frank_Kaiser-Barbarossa,-der-Bahnwärter-und-die-Kaugummiautomaten_pp.txt",2023,LW,08,"Ingrid Frank Kaiser Barbarossa, der Bahnwärter und die Kaugummiautomaten",0.275414595344592,t91
+91,2,1343,file:/C:/mallet/textkorpus/final_txtonly/2021_LW_Münchner-KGW_Leszek-Stalewski_Strahlen_pp.txt,2021,LW,Leszek Stalewski,Strahlen,0.2598359114368039,t91
+91,3,496,file:/C:/mallet/textkorpus/final_txtonly/2013_LW_Bachmann_Bachmannpreis_Katja-Petrowskaja_Vielleicht-Esther_AUSZUG_pp.txt,2013,LW,Bachmannpreis,Katja Petrowskaja Vielleicht Esther AUSZUG,0.2379872567650842,t91

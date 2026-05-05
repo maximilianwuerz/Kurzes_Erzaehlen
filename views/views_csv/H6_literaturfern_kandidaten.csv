@@ -1,0 +1,858 @@
+"koerperschaft_id","koerperschaft_name","koerperschaft_name_gnd","gnd_sachgruppe","name_flag"
+"K1","Grüne Aue",NULL,NULL,NULL
+"K73","Albatros",NULL,NULL,NULL
+"K323","Bibliogr. Inst.",NULL,NULL,NULL
+"K451","C & N",NULL,NULL,NULL
+"K1040","Entenpress",NULL,NULL,NULL
+"K1106","Fireflies Press",NULL,NULL,NULL
+"K1766","Lesewuth",NULL,NULL,NULL
+"K2013","Mosers Büro GmbH",NULL,NULL,"Unternehmen"
+"K2015","MuSingal",NULL,NULL,NULL
+"K2139","Paarl Rock Publishers",NULL,NULL,NULL
+"K2574","Soli Netz",NULL,NULL,NULL
+"K2642","Studio Raster",NULL,NULL,NULL
+"K2767","Undercoverbooks",NULL,NULL,NULL
+"K2825","Verein zur Förderung und Vernetzung von Jugendkultur",NULL,NULL,"Verein"
+"K3207","Wydawnictwo Tadeusz Serocki",NULL,NULL,NULL
+"K3338","enPunto",NULL,NULL,NULL
+"K3487","via Pho.to-Tool/ Made by Photo Lab, Fritz",NULL,NULL,NULL
+"K3489","vomhörensehen medienagentur",NULL,NULL,NULL
+"K3498","wespen-kontor",NULL,NULL,NULL
+"K3502","worttransport.de",NULL,NULL,NULL
+"K2","#BerlinAuthors",NULL,NULL,NULL
+"K3","/",NULL,NULL,NULL
+"K6","27amigos",NULL,NULL,NULL
+"K8","3. Oktober – Deutschland singt und klingt",NULL,NULL,NULL
+"K10","3VerSchreiber",NULL,NULL,NULL
+"K12","A. Agic",NULL,NULL,NULL
+"K13","A. Delon",NULL,NULL,NULL
+"K15","A. Hennig",NULL,NULL,NULL
+"K18","A.E. Johann-Gesellschaft e.V.",NULL,NULL,"Verein"
+"K21","A7L Thrilling Books Limited",NULL,NULL,NULL
+"K25","AB, TravenBooks",NULL,NULL,NULL
+"K30","AIKA Consulting GmbH",NULL,NULL,"Unternehmen"
+"K36","APRYCOT",NULL,NULL,NULL
+"K40","ATE","Ate",NULL,NULL
+"K54","Adonia","Adonia (Körperschaft)","Gruppe, Organisationssoziologie, Interaktion",NULL
+"K55","Advent-Wohlfahrtswerk Seniorenheim Neandertal gmbH",NULL,NULL,"Unternehmen"
+"K56","Adwork Köln - Halven Hahn Produktion",NULL,NULL,NULL
+"K60","Agade Publ. House",NULL,NULL,NULL
+"K77","Alexander, Darleen",NULL,NULL,NULL
+"K80","Ali Hensel",NULL,NULL,NULL
+"K85","Almadinah gUG",NULL,NULL,NULL
+"K91","Alpha Litart",NULL,NULL,NULL
+"K92","Alphabeta","AlphaBeta",NULL,NULL
+"K93","Altan","Altan","Musik (Allgemeines), Musikgeschichte",NULL
+"K100","Amazon Distribution",NULL,NULL,NULL
+"K101","Amazon Media EU S.à r.l.",NULL,NULL,NULL
+"K105","Amicus","Amicus",NULL,NULL
+"K109","Amonja Publishing",NULL,NULL,NULL
+"K115","Anderland Books",NULL,NULL,NULL
+"K121","Andres",NULL,NULL,NULL
+"K122","Andresen",NULL,NULL,NULL
+"K123","Angele","Angele-Sippe",NULL,NULL
+"K129","Ansichtssache - Agentur für Gestaltung",NULL,NULL,NULL
+"K139","April G. Dark c/o Gabriela Schmid",NULL,NULL,NULL
+"K140","Aquensis","Cappella Aquensis","Musik (Allgemeines), Musikgeschichte",NULL
+"K142","Arbeitsgemeinschaft Selbstständiger Migranten e.V.","Arbeitsgemeinschaft Selbstständiger Migranten e.V.","Bevölkerung, Sozialstruktur, Soziale Situation, Soziale Bewegungen; Arbeit","Verein"
+"K143","Arbeitskreis der Gleichstellungsbeauftragten des Märkischen Kreises, Arbeitskreis der Gleichstellungsbeauftragten des Märkischen",NULL,NULL,"Gemeinschaft"
+"K144","Arbeitskreis für Dorfentwicklung und Heimatpflege","Arbeitskreis für Dorfentwicklung und Heimatpflege",NULL,"Gemeinschaft"
+"K153","Arkade",NULL,NULL,NULL
+"K155","Armin-T-Wegner-Ges.","Armin-T.-Wegner-Gesellschaft",NULL,"Gemeinschaft"
+"K165","Artemis & Winkler","Artemis & Winkler",NULL,NULL
+"K166","Artemis und Winkler","Artemis & Winkler",NULL,NULL
+"K168","Artpress",NULL,NULL,NULL
+"K174","Askan - Familienforschung & Heimatkunde, Bärbel und Beatrice Barnehl GbR",NULL,NULL,"Unternehmen"
+"K175","Asmussen",NULL,NULL,NULL
+"K176","Asoka",NULL,NULL,NULL
+"K181","Atelier Coaching & Training",NULL,NULL,NULL
+"K182","Atelier Colorwaves",NULL,NULL,NULL
+"K183","Atelier Margits Art",NULL,NULL,NULL
+"K184","Atelier Monika Stocker",NULL,NULL,NULL
+"K190","Aton","Aton-Saxophonquartett","Musik (Allgemeines), Musikgeschichte",NULL
+"K193","Attenkofer","Cl. Attenkofer (Straubing)",NULL,NULL
+"K195","Audio-To-Go Publishing Ltd.",NULL,NULL,NULL
+"K206","Autoren Netzwerk",NULL,NULL,"Gemeinschaft"
+"K208","Autorenforum Köln e.V., Autorenforum Köln e.V.","AutorenForum Köln",NULL,"Gemeinschaft"
+"K209","Autorengruppe Märkischer Kreis",NULL,NULL,"Gemeinschaft"
+"K210","Autorenkollektiv Nord c/o Sören Steding",NULL,NULL,"Gemeinschaft"
+"K212","Autorenquelle Limburg",NULL,NULL,NULL
+"K215","Ave",NULL,NULL,NULL
+"K220","Axon","Axon","Musik (Allgemeines), Musikgeschichte",NULL
+"K222","Ayurveda-Verein Nexenhof",NULL,NULL,"Verein"
+"K223","Azur",NULL,NULL,NULL
+"K225","B. Mastori",NULL,NULL,NULL
+"K226","B. Montua",NULL,NULL,NULL
+"K227","B.R. Filtec GmbH c/o Tahja Bennet",NULL,NULL,"Unternehmen"
+"K235","BJ-Autorenservice.de",NULL,NULL,NULL
+"K236","BLB",NULL,NULL,NULL
+"K245","BUCHER",NULL,NULL,NULL
+"K250","Baar",NULL,NULL,NULL
+"K251","Bachem",NULL,NULL,NULL
+"K252","Bachem, J P","J. P. Bachem (Köln)",NULL,NULL
+"K259","Baier",NULL,NULL,NULL
+"K262","BaltArtGmbH Switzerland",NULL,NULL,"Unternehmen"
+"K275","Bautz","Bautz (Saulgau)",NULL,NULL
+"K279","Be + Be",NULL,NULL,NULL
+"K284","Beck, C H","H. W. Beck (C. Tappen) (Firma)",NULL,"Unternehmen"
+"K290","Beltz",NULL,NULL,NULL
+"K293","Benevento","Benevento Publishing",NULL,NULL
+"K294","Benguela Publ.",NULL,NULL,NULL
+"K299","Berger",NULL,NULL,NULL
+"K303","Bergverein zu Hüttenrode e.V.","Bergverein (Hüttenrode)",NULL,"Verein"
+"K306","Berliner Kreis","Berliner Kreis",NULL,"Gemeinschaft"
+"K311","Bernewitz, Paul",NULL,NULL,NULL
+"K315","Bertram",NULL,NULL,NULL
+"K318","Betz",NULL,NULL,NULL
+"K326","BildSpracheWortLaut",NULL,NULL,NULL
+"K327","Bilderstöckchen-Buchvertrieb",NULL,NULL,NULL
+"K328","Birgit Otten c/o Papyrus Autoren-Club",NULL,NULL,"Gemeinschaft"
+"K332","Black Umbrella Publisching",NULL,NULL,NULL
+"K333","Black Umbrella Publishing",NULL,NULL,NULL
+"K334","Blackelephant Publishing",NULL,NULL,NULL
+"K343","Blitz",NULL,NULL,NULL
+"K346","Blohn",NULL,NULL,NULL
+"K347","Bloomsbury Taschenbuch",NULL,NULL,NULL
+"K353","Bodan","Bodan Werft","Fahrzeugbau, Fördertechnik, Raumfahrttechnik; Einzelne Branchen der Industrie und des Handwerks",NULL
+"K354","Boder","boeder AG","Handel allgemein, Dienstleistung allgemein",NULL
+"K357","Boesche",NULL,NULL,NULL
+"K364","Bookmundo Osiander",NULL,NULL,NULL
+"K365","Books-and-bytes",NULL,NULL,NULL
+"K376","Braun",NULL,NULL,NULL
+"K379","Brendel","Brendel und Brendel","Musik (Allgemeines), Musikgeschichte",NULL
+"K382","Brighton GROUP GmbH",NULL,NULL,"Unternehmen"
+"K1101","Feldmann",NULL,NULL,NULL
+"K393","Brückenschreiber Koblenz","Brückenschreiber Koblenz",NULL,NULL
+"K398","Buch Salon Walbach",NULL,NULL,NULL
+"K399","Buch und Ich Tara Dierck",NULL,NULL,NULL
+"K404","BuchHandelsGesellschaft","Buchhandelsgesellschaft",NULL,"Gemeinschaft"
+"K409","Buchet Chastel",NULL,NULL,NULL
+"K415","Buchschmiede von Dataform Media GmbH",NULL,NULL,"Unternehmen"
+"K421","Budde-Haus – Soziokulturelles Zentrum Leipzig-Gohlis","Heinrich-Budde-Haus Leipzig","Ortsgebundene Bauwerke",NULL
+"K422","Bund für Dt. Schrift und Sprache","Bund für Deutsche Schrift und Sprache",NULL,NULL
+"K423","Bundesverb. Alphabetisierung und Grundbildung","Bundesverband Alphabetisierung und Grundbildung",NULL,"Verband"
+"K426","Bundeswettbewerbe der Berliner Festspiele",NULL,NULL,NULL
+"K432","Busch Books",NULL,NULL,NULL
+"K436","Bächtold",NULL,NULL,NULL
+"K440","Böhme",NULL,NULL,NULL
+"K441","BördeAutoren e.V.","BördeAutoren",NULL,NULL
+"K1746","Lehr, Jennifer",NULL,NULL,NULL
+"K444","Bücherplantage UG",NULL,NULL,NULL
+"K448","Bürger- und Heimatverein Barßel e.V.","Bürger- und Heimatverein Barßel",NULL,"Verein"
+"K449","Bürgerstiftung Düren","Bürgerstiftung Düren",NULL,NULL
+"K452","C&C - Contact & Creation",NULL,NULL,NULL
+"K455","C. Simon",NULL,NULL,NULL
+"K456","C.-P. Peters",NULL,NULL,NULL
+"K461","CARE Deutschland e.V","CARE Deutschland e.V.","Sozialarbeit, Sozialhilfe","Verein"
+"K463","CBK-Productions",NULL,NULL,NULL
+"K464","CHORA","CHORA",NULL,NULL
+"K466","CLIO","Clio","Musik (Allgemeines), Musikgeschichte",NULL
+"K473","CTM Lesekultur, Christine Reiter",NULL,NULL,NULL
+"K476","Calderan",NULL,NULL,NULL
+"K479","Cameo","Cameo","Musik (Allgemeines), Musikgeschichte",NULL
+"K480","Candela","Candela","Musik (Allgemeines), Musikgeschichte",NULL
+"K485","Carin Müller c/o Die Bücherfee Karina Reiß",NULL,NULL,NULL
+"K486","Carinus Rotlinde c/o autorenglück.de",NULL,NULL,NULL
+"K491","Carla Eisfeldt c/o Block Services",NULL,NULL,NULL
+"K494","CarpeGusta",NULL,NULL,NULL
+"K495","Cartagena",NULL,NULL,NULL
+"K496","CeS V",NULL,NULL,NULL
+"K500","Ch. Möllmann",NULL,NULL,NULL
+"K1747","Leim",NULL,NULL,NULL
+"K505","Chat Noir","Chat-Noir","Kabarett, Zirkus, Varieté",NULL
+"K509","Chill Media",NULL,NULL,NULL
+"K516","CiTi",NULL,NULL,NULL
+"K521","Claudius",NULL,NULL,NULL
+"K522","Cleya",NULL,NULL,NULL
+"K526","Coburger Autorengemeinschaft Schreibsand","Autorengemeinschaft Schreibsand",NULL,"Gemeinschaft"
+"K535","Concept Leben, Werbe- und Einkaufsgesellschaft für den konfessionellen Buchhandel mbH",NULL,NULL,"Gemeinschaft"
+"K539","ContraPunkt","Contrapunkt","Musik (Allgemeines), Musikgeschichte",NULL
+"K551","Crearta",NULL,NULL,NULL
+"K553","CreateSpace Independent Publishing Platform",NULL,NULL,NULL
+"K554","Creativo, Initiationgruppe für Literatur, Wissenschaft und KUnst",NULL,NULL,"Gemeinschaft"
+"K555","Crespo Foundation","Crespo Foundation","Kultur, Künste allgemein",NULL
+"K558","CulturTainment",NULL,NULL,NULL
+"K563","D. Sargon",NULL,NULL,NULL
+"K564","DAS GRAMM e.K.",NULL,NULL,"Unternehmen"
+"K565","DAS SYNDIKAT – Autorengruppe deutschsprachige Kriminalliteratur A.I.E.P.",NULL,NULL,"Gemeinschaft"
+"K566","DCS","DCS","Musik (Allgemeines), Musikgeschichte",NULL
+"K569","DHBW Mannheim","Duale Hochschule Baden-Württemberg Mannheim","Berufsausbildung; Hochschule","Bildungseinrichtung"
+"K572","DNMP, Daniel Neumann Medienproduktion",NULL,NULL,NULL
+"K574","DREIERLEI",NULL,NULL,NULL
+"K582","Daphne Bühner c/o Autorenbetreuung Carole Minn",NULL,NULL,NULL
+"K584","Das Entlebucher Medienhaus",NULL,NULL,NULL
+"K594","DeWinter Waldorf Glass",NULL,NULL,NULL
+"K603","Der Doppeldaumenmann c/o Block Services",NULL,NULL,NULL
+"K626","DichtFest GbR",NULL,NULL,"Unternehmen"
+"K628","Dichterwettstreit deluxe",NULL,NULL,NULL
+"K629","Die 7 Zwerge e.V.",NULL,NULL,"Verein"
+"K631","Die Geschichtenfabrik",NULL,NULL,NULL
+"K632","Die Glücksoase",NULL,NULL,NULL
+"K633","Die Gruppe 48 e.V.","Die Gruppe 48",NULL,"Gemeinschaft"
+"K634","Die Phantasten","Die Chromatischen Phantasten","Musik (Allgemeines), Musikgeschichte",NULL
+"K636","Die Schatzkiste",NULL,NULL,NULL
+"K638","Die2 Verlag","Die2, Verein für Theater- und Konzertaufführungen und Verbreitung Europäischer Kultur",NULL,"Verein"
+"K641","Dieselstrasse, Kulturzentrum","Kultur- und Kommunikationszentrum (Esslingen am Neckar)",NULL,NULL
+"K642","Dietrich, Gabriella",NULL,NULL,NULL
+"K643","Dietschi","Dietschi AG","Einzelne Branchen der Industrie und des Handwerks; Presse",NULL
+"K652","Doering",NULL,NULL,NULL
+"K653","Dokumentationsstelle für Neuere Österr. Literatur",NULL,NULL,NULL
+"K654","Dominikanerkloster Prenzlau","Dominikanerkloster Prenzlau - Kulturzentrum und Museum","Liturgik, Frömmigkeit",NULL
+"K662","Dorferneuerungsverein Prigglitz",NULL,NULL,"Verein"
+"K667","Dover Publications, Inc.","Dover Publications",NULL,NULL
+"K670","Dr. Jürgen Oberle",NULL,NULL,NULL
+"K671","Dr. Martin Bethke Storyvents",NULL,NULL,NULL
+"K677","Draconis Books",NULL,NULL,NULL
+"K2632","Storyvents",NULL,NULL,NULL
+"K696","Droste","Droste","Musik (Allgemeines), Musikgeschichte",NULL
+"K704","Dt. Rotes Kreuz, Ortsverein Hameln",NULL,NULL,"Verein"
+"K722","EDUTAINMENT GmbH, VISUAL",NULL,NULL,"Unternehmen"
+"K731","EROSTEPOST- Verein für Literatur und Literaturzeitschrift",NULL,NULL,"Verein"
+"K736","Easy Readers",NULL,NULL,NULL
+"K739","Eberl",NULL,NULL,NULL
+"K740","Ebersbach & Simon",NULL,NULL,NULL
+"K741","Ebner",NULL,NULL,NULL
+"K748","Eckhart Schmidt Publishing",NULL,NULL,NULL
+"K785","Ed. Gelsen","Edita Gelsen, Verlegender Literaturverein",NULL,"Verein"
+"K813","Ed. M&S","Associazione commercianti ed esercenti Brione s/M",NULL,NULL
+"K872","Edel","Edel AG","Einzelne Branchen der Industrie und des Handwerks",NULL
+"K874","Edika",NULL,NULL,NULL
+"K875","Edita Gelsen","Edita Gelsen, Verlegender Literaturverein",NULL,"Verein"
+"K902","Edition Dichtungsring","Dichtungsring e.V.",NULL,"Verein"
+"K980","Edition fabrik.transit","Literatur- und Kunstverein fabrik.transit",NULL,"Verein"
+"K987","Editora Girabrasil",NULL,NULL,NULL
+"K1014","ElIbiary",NULL,NULL,NULL
+"K1024","Ellie Harding c/o Steffen TextArt",NULL,NULL,NULL
+"K1031","Em Huisken Musik und Wort",NULL,NULL,NULL
+"K1032","Emmerich Books & Media",NULL,NULL,NULL
+"K1050","Erika Hörzer",NULL,NULL,NULL
+"K1052","Ernst-Moritz-Arndt-Gymnasium","Ernst-Moritz-Arndt-Gymnasium Bergen","Schule","Bildungseinrichtung"
+"K1058","Esslinger",NULL,NULL,NULL
+"K1063","Europa Buch",NULL,NULL,NULL
+"K1068","Evang. Ges.",NULL,NULL,NULL
+"K1071","Even Terms Press",NULL,NULL,NULL
+"K1072","Exchange and Dialogue",NULL,NULL,NULL
+"K1076","FELiCiTARiS","FELiCiTARiS",NULL,NULL
+"K1077","FH Joanneum, Studiengang Informationsdesign","FH JOANNEUM Gesellschaft. Studiengang Informationsdesign",NULL,"Gemeinschaft"
+"K1084","Factum Coloniae",NULL,NULL,NULL
+"K1088","Fakriro GbR",NULL,NULL,"Unternehmen"
+"K1098","Feiyr",NULL,NULL,NULL
+"K1099","Fel!x","FEL",NULL,NULL
+"K1108","Fischer Digital",NULL,NULL,NULL
+"K1114","Fischern",NULL,NULL,NULL
+"K1115","Flying Grandpa",NULL,NULL,NULL
+"K1118","Fondation Servais pour la littérature luxembourgeoise","Fondation Servais pour la Littérature Luxembourgeoise",NULL,NULL
+"K1120","Fontana Edizioni","Fontana edizioni",NULL,NULL
+"K1121","Fontis","Fontis AG",NULL,NULL
+"K1124","Forum Gundernhausen","Forum Gundernhausen",NULL,"Gemeinschaft"
+"K1125","Forum Stadtkirche Wunstorf","Forum Stadtkirche Wunstorf",NULL,"Gemeinschaft"
+"K1126","Forumhelden GmbH",NULL,NULL,"Gemeinschaft"
+"K1127","Fotolia","Fotolia Deutschland","Einzelne Branchen der Industrie und des Handwerks",NULL
+"K1129","Francke",NULL,NULL,NULL
+"K1130","Frank",NULL,NULL,NULL
+"K1138","Frauenmuseum","Frauenmuseum Bonn","Gruppe, Organisationssoziologie, Interaktion; Kunstgeschichte; Archiv, Museum",NULL
+"K1142","Freiwillige Feuerwehr Haiterbach, Abt. Haiterbach","Freiwillige Feuerwehr Haiterbach. Abteilung Haiterbach","Öffentliche Verwaltung, Öffentlicher Dienst",NULL
+"K1144","Freunde der Literatur in Bayern e.V.","Verein der Freunde der Literatur in Bayern e.V.",NULL,"Verein"
+"K1145","Freundeskreis des Literaturhauses Schleswig-Holstein",NULL,NULL,"Gemeinschaft"
+"K1146","Freundeskreis, Botanischer Garten",NULL,NULL,"Gemeinschaft"
+"K1148","Frick",NULL,NULL,NULL
+"K1149","Friedenauer Presse","Friedenauer Presse","Presse",NULL
+"K1150","Friedmann",NULL,NULL,NULL
+"K1151","Friedrich",NULL,NULL,NULL
+"K1153","Friedrich-Bödecker-Kreis in Sachsen-Anhalt","Friedrich-Bödecker-Kreis in Sachsen-Anhalt",NULL,"Gemeinschaft"
+"K1155","Friesische Philologie/Nordfriesische Wörterbuchstelle, Christian-Albrechts-Universität zu Kiel",NULL,NULL,"Bildungseinrichtung"
+"K1156","Fritzsche",NULL,NULL,NULL
+"K1157","Fuchs",NULL,NULL,NULL
+"K1160","Förderverein Amtliche Vermessung im Kanton Bern","Förderverein 100 Jahre Amtliche Vermessung im Kanton Bern",NULL,"Verein"
+"K1161","Förderverein Stadtmuseum Hattingen",NULL,NULL,"Verein"
+"K1162","Förderverein für das Erich-Kästner-Museum","Förderverein für das Erich Kästner Museum",NULL,"Verein"
+"K1163","Förderwerk Elbinseln",NULL,NULL,NULL
+"K1169","GEROJOKO",NULL,NULL,NULL
+"K1170","GEV",NULL,NULL,NULL
+"K1171","GGSV",NULL,NULL,NULL
+"K1173","GOYA",NULL,NULL,NULL
+"K1176","GUC",NULL,NULL,NULL
+"K1189","Garnies",NULL,NULL,NULL
+"K1191","Gebr. Nadelmann",NULL,NULL,NULL
+"K1192","GedankenReich",NULL,NULL,NULL
+"K1198","Gemeinde Kemmern",NULL,NULL,NULL
+"K1200","Gemeinnütziger Verein zur Förderung des Literaturschaffens und des kulturellen Austauschs zwischen Deutschen und Polen e.V.",NULL,NULL,"Verein"
+"K1202","Genniges",NULL,NULL,NULL
+"K1207","Gerhard, Johanna",NULL,NULL,NULL
+"K1209","Gerlinger, Stefan",NULL,NULL,NULL
+"K1210","Gernot Kröger",NULL,NULL,NULL
+"K1213","Gietl","Geschwister Gietl","Musik (Allgemeines), Musikgeschichte",NULL
+"K1218","Gisler Medien, Gisler 1843 AG","Gisler 1843 AG",NULL,NULL
+"K1221","Glossabooks",NULL,NULL,NULL
+"K1225","Goa Kana & Waratfy Ztaia",NULL,NULL,NULL
+"K1226","Goedeke",NULL,NULL,NULL
+"K1227","Goethe Universität Frankfurt","Goethe-Universität Frankfurt am Main","Hochschule","Bildungseinrichtung"
+"K1233","Goldmacher",NULL,NULL,NULL
+"K1234","Goldmann",NULL,NULL,NULL
+"K1235","Goldschmidt GmbH",NULL,NULL,"Unternehmen"
+"K1236","Goldstadt-Autoren e. V., Verein",NULL,NULL,"Verein"
+"K1242","Golos-Press",NULL,NULL,NULL
+"K1246","Grafische Anstalten Hassa & Karl GbR",NULL,NULL,"Unternehmen"
+"K1248","Grafotlac Soltys",NULL,NULL,NULL
+"K1249","Grafotlač Šoltys",NULL,NULL,NULL
+"K1252","Graphiti","GRAPHITI",NULL,NULL
+"K1253","Grass Publishers",NULL,NULL,NULL
+"K1256","Grenda",NULL,NULL,NULL
+"K1258","Greven",NULL,NULL,NULL
+"K1260","Grolitsch",NULL,NULL,NULL
+"K1261","Grote",NULL,NULL,NULL
+"K1264","Gruber",NULL,NULL,NULL
+"K1271","Grünberg",NULL,NULL,NULL
+"K1272","Grüne Aue","Kleingartenverein Grüne Aue (Leipzig)",NULL,"Verein"
+"K1274","Gudruns Töchter",NULL,NULL,NULL
+"K1277","Gunda-Werner-Institut","Gunda-Werner-Institut","Wissenschaft; Sozialpolitik, Entwicklungshilfe","Institut"
+"K1279","Górnośląskie Centrum Kultury i Spotkań im. Eichendorffa",NULL,NULL,NULL
+"K1281","Günther Emigs Literatur-Betrieb",NULL,NULL,NULL
+"K1284","H. Weisenfeld",NULL,NULL,NULL
+"K1296","Hager",NULL,NULL,NULL
+"K1304","Hammer",NULL,NULL,NULL
+"K1307","Hands Art, Four",NULL,NULL,NULL
+"K1308","Hanno Herbst Musik & Buch",NULL,NULL,NULL
+"K1309","Hans-Werner Kulinna c/o Autorenglück.de",NULL,NULL,NULL
+"K1314","Hardt & Wörner",NULL,NULL,NULL
+"K1318","Hartmann",NULL,NULL,NULL
+"K1319","Hartmut Krüpe-Silbersiepe",NULL,NULL,NULL
+"K1322","Hassa & Karl Grafische Anstalten",NULL,NULL,NULL
+"K1326","Haus für Poesie","Haus für Poesie",NULL,NULL
+"K1327","Hawkify Books",NULL,NULL,NULL
+"K1332","Heike Rosa Maria Gaudenti",NULL,NULL,NULL
+"K1333","Heimann-Stiftung, für Völkerverständigung","Heimann Stiftung für Völkerverständigung",NULL,NULL
+"K1334","Heimat- u. Geschichtsverein",NULL,NULL,"Verein"
+"K1335","Heimat- und Kulturverein Dahme","Heimat- und Kulturverein Dahme",NULL,"Verein"
+"K1336","Heimat- und Museumsverein Thayaland","Heimat- und Museumsverein Thayaland",NULL,"Verein"
+"K1337","Heimat- und Verschönerungsverein Bad Salzuflen e.V.","Heimat- und Verschönerungsverein Bad Salzuflen","Brauchtum, Volksglaube; Geografie, Heimat- und Länderkunde (Allgemeines); Raumordnung, Stadtplanung, Landschaftsgestaltung; Gruppe, Organisationssoziologie, Interaktion; Architektur","Verein"
+"K1338","Heimatbote Schwalmtal",NULL,NULL,NULL
+"K1339","Heimatfreunde Winterbach","Heimatfreunde Winterbach",NULL,NULL
+"K1340","Heimatkundlicher Verein für Südböhmen e.V.",NULL,NULL,"Verein"
+"K1348","Heinz-Willi Dammers",NULL,NULL,NULL
+"K1350","Hellinger Publ.",NULL,NULL,NULL
+"K1351","Hellinger Publications",NULL,NULL,NULL
+"K2312","Regina Mars c/o Block Services",NULL,NULL,NULL
+"K1363","HerausgeberInnengemeinschaft Irrliche",NULL,NULL,"Gemeinschaft"
+"K1364","Herbst Medien",NULL,NULL,NULL
+"K1365","Herder",NULL,NULL,NULL
+"K1369","Herta Ahrenzmann c/o AutorenServices.de",NULL,NULL,NULL
+"K1370","Herzensmenschen",NULL,NULL,NULL
+"K1375","Hessel",NULL,NULL,NULL
+"K1377","HeuwägelchenBücher",NULL,NULL,NULL
+"K1378","Heydär Äliyev Stiftung","Heydär Äliyev Fondu",NULL,NULL
+"K1381","Heyne, W",NULL,NULL,NULL
+"K1386","Hildegard Tölke","Tölke, Hildegard","Personen zu Malerei, Zeichnung, Grafik; Personen zu Bildungswesen",NULL
+"K1392","Hinterländer Geschichtsverein","Hinterländer Geschichtsverein","Gruppe, Organisationssoziologie, Interaktion; Geografie, Heimat- und Länderkunde (Allgemeines); Geschichte (Allgemeines)","Verein"
+"K1393","Hippomonte Publishing e.K.",NULL,NULL,"Unternehmen"
+"K1395","Hirn Kastl & Herz",NULL,NULL,NULL
+"K1396","Hirnkost KG","Hirnkost KG",NULL,NULL
+"K1397","Hirschberger","Hirschberger Musikanten","Musik (Allgemeines), Musikgeschichte",NULL
+"K1398","Hirt",NULL,NULL,NULL
+"K1401","Hoermann",NULL,NULL,NULL
+"K1404","Hofmann-Buch",NULL,NULL,NULL
+"K1405","Hohe-Dorst, Inka Maria",NULL,NULL,NULL
+"K1407","Holder","Hoelder!",NULL,NULL
+"K1417","Huber",NULL,NULL,NULL
+"K1419","Hunold, Konstanze",NULL,NULL,NULL
+"K1423","Hydre Éditions",NULL,NULL,NULL
+"K1424","Hydre éditions",NULL,NULL,NULL
+"K1426","Höchlerbach",NULL,NULL,NULL
+"K2508","Schöler",NULL,NULL,NULL
+"K1429","I. Reen Bow",NULL,NULL,NULL
+"K1431","IDEA","IDEA","Militär",NULL
+"K1432","IDV AG",NULL,NULL,NULL
+"K1439","INKAS","Ecuador Inkas","Musik (Allgemeines), Musikgeschichte",NULL
+"K1445","Ida Universum",NULL,NULL,NULL
+"K1453","Ilona Bürgel","Bürgel, Ilona",NULL,NULL
+"K1464","Initiative DarkSky Nord",NULL,NULL,NULL
+"K1465","Inkitt Inc.",NULL,NULL,NULL
+"K1466","Innerhofer, Agnes","Innerhofer, Agnes",NULL,NULL
+"K1467","Innings, Ava","Innings, Ava",NULL,NULL
+"K1473","Institut für Digitale Ethik","Institut für Digitale Ethik",NULL,"Institut"
+"K1474","Institut für deutsche Sprache und Literatur I, Universität zu Köln","Universität zu Köln. Institut für Deutsche Sprache und Literatur I",NULL,"Institut"
+"K1475","Interforum e.V.","Interforum e.V.",NULL,"Verein"
+"K1484","Izdatelstvo Vesi",NULL,NULL,NULL
+"K1485","J. Flume",NULL,NULL,NULL
+"K1486","J. Kissel",NULL,NULL,NULL
+"K1487","J. Münch",NULL,NULL,NULL
+"K1491","JFF",NULL,NULL,NULL
+"K1493","JOJO","Jojo","Musik (Allgemeines), Musikgeschichte",NULL
+"K1497","JVA Hannover","Justizvollzugsanstalt (Hannover)",NULL,NULL
+"K1498","JWV Wiemann",NULL,NULL,NULL
+"K1504","Jan Deichmohle c/o AutorenServices.de",NULL,NULL,NULL
+"K1505","Janson",NULL,NULL,NULL
+"K1508","Jeetzelbuch",NULL,NULL,NULL
+"K1512","Jes Schön  c/o WirFinden.Es Naß und Hellie GbR",NULL,NULL,"Unternehmen"
+"K1513","Jes Schön c/o WirFinden.Es Naß und Hellie GbR",NULL,NULL,"Unternehmen"
+"K1517","Jokers","Great Jokers","Musik (Allgemeines), Musikgeschichte",NULL
+"K1520","JuLl – Junges Literaturlabor","Junges Literaturlabor",NULL,NULL
+"K1521","Jud","JUD","Musik (Allgemeines), Musikgeschichte",NULL
+"K1522","Jumbo","Jumbo","Musik (Allgemeines), Musikgeschichte",NULL
+"K1527","Juppus Bücher",NULL,NULL,NULL
+"K1532","K & S",NULL,NULL,NULL
+"K1533","K & W",NULL,NULL,NULL
+"K1542","KUNTS e.V.","Kunts e.V.",NULL,"Verein"
+"K1544","KVHS",NULL,NULL,NULL
+"K1545","KW Thörmer",NULL,NULL,NULL
+"K1547","Kaden","Kaden + Kaden Holzgestaltung",NULL,NULL
+"K1552","Kaltenmeier","H. Kaltenmeier Söhne (Krefeld-Hüls)",NULL,NULL
+"K1555","Kannemann","Kannemann & Miko","Musik (Allgemeines), Musikgeschichte",NULL
+"K1560","Karl-May-Bücherei",NULL,NULL,NULL
+"K1565","Kastner","Kastner AG",NULL,NULL
+"K1567","Kath. Akad.",NULL,NULL,NULL
+"K1570","Kava-Pech",NULL,NULL,NULL
+"K1580","Kempen, Sarah M.",NULL,NULL,NULL
+"K1581","Kern",NULL,NULL,NULL
+"K1582","Ketteler",NULL,NULL,NULL
+"K1586","Kidnap Music",NULL,NULL,NULL
+"K1597","Klaudia Zotzmann-Koch c/o Bianca Kronsteine, impressumservice.net",NULL,NULL,NULL
+"K1600","Klemm + Oelschläger","Klemm+Oelschläger",NULL,NULL
+"K1606","Klub Ljubitelja Knjiga Majdan",NULL,NULL,NULL
+"K1607","Klub Ljubitelja Knjige Majdan",NULL,NULL,NULL
+"K1608","Klöpfer","Roland Klöpfer GmbH (Ottersweier)","Einzelne Branchen der Industrie und des Handwerks","Unternehmen"
+"K1614","Knürr",NULL,NULL,NULL
+"K1615","Kobold Books",NULL,NULL,NULL
+"K1616","Koehler",NULL,NULL,NULL
+"K1619","Kolchis Belletristik",NULL,NULL,NULL
+"K1621","KommPlot, Autorinnengruppe","KommPlot",NULL,NULL
+"K1624","Komplett-Media","Komplett-Media GmbH",NULL,"Unternehmen"
+"K1626","Kontrasp",NULL,NULL,NULL
+"K1631","Kopf & Kragen",NULL,NULL,NULL
+"K1636","Kovar, R",NULL,NULL,NULL
+"K1643","Kreativrat der Schreibwerkstatt Feldkirch",NULL,NULL,NULL
+"K1644","Krebs",NULL,NULL,NULL
+"K1647","Kremser Literaturforum",NULL,NULL,"Gemeinschaft"
+"K1648","Kreuz",NULL,NULL,NULL
+"K1649","Kruse",NULL,NULL,NULL
+"K1655","Kulturland Niederösterreich",NULL,NULL,NULL
+"K1656","Kulturleben Marktgemeinde Grassau",NULL,NULL,NULL
+"K1658","Kulturstammtisch","Kulturstammtisch Kirchstetten","Kultur, Künste allgemein",NULL
+"K1659","Kulturverein Möhnsee e.V.",NULL,NULL,"Verein"
+"K1660","Kulturverein Schloss Homburg am Main e.V.","Kulturverein Schloss Homburg am Main","Kultur, Künste allgemein","Verein"
+"K1663","Kulturzone e.V.",NULL,NULL,"Verein"
+"K1668","Kunstforum Salzkammergut",NULL,NULL,"Gemeinschaft"
+"K1670","Kunsthochschule für Medien Köln","Kunsthochschule für Medien Köln","Neue Formen der Kunst; Hochschule","Bildungseinrichtung"
+"K1673","Kunze",NULL,NULL,NULL
+"K1674","Kuqi-Institut für Sprachwissenschaft, Adrian Kuqi",NULL,NULL,"Institut"
+"K1677","Kuschelgang","Kuschelgang (Körperschaft)",NULL,NULL
+"K2568","Smart & Nett",NULL,NULL,NULL
+"K1685","Künstler-Gilde e.V.","Are-Künstler-Gilde","Bildende Kunst",NULL
+"K1689","L.S.D.",NULL,NULL,NULL
+"K1691","LAHA-Dr.",NULL,NULL,NULL
+"K1692","LAUNENWEBER",NULL,NULL,NULL
+"K1693","LCERC",NULL,NULL,NULL
+"K1694","LEU",NULL,NULL,NULL
+"K1695","LHDL Self Publ.",NULL,NULL,NULL
+"K1696","LIBRAS Shqipe Sylejmani",NULL,NULL,NULL
+"K1697","LIJEPA RIJEČ",NULL,NULL,NULL
+"K1701","LV-Buch",NULL,NULL,NULL
+"K1702","LVZ","LVZ-Bäckerei",NULL,NULL
+"K1705","Lago Imago",NULL,NULL,NULL
+"K1712","Landeshauptstadt Klagenfurt","Handelsgenossenschaft der Landeshauptstadt Klagenfurt",NULL,NULL
+"K1715","Landkreis Barnim","Landkreis Barnim. Kreistag",NULL,"Gemeinschaft"
+"K1721","Language Practice Publishing",NULL,NULL,NULL
+"K1723","Lardon Media",NULL,NULL,NULL
+"K1728","Laufen","Papiermühle Laufen (Laufen, Eyach)","Einzelne Branchen der Industrie und des Handwerks; Papierherstellung, Grafische Technik",NULL
+"K1734","Lava","Lava","Musik (Allgemeines), Musikgeschichte",NULL
+"K1736","Laßleben","Laßleben",NULL,NULL
+"K1738","Lebenshilfe Bremen e.V.","Lebenshilfe Bremen","Sozialarbeit, Sozialhilfe",NULL
+"K1739","Lebenskind Publishing",NULL,NULL,NULL
+"K1741","Leffotraks Labyrinthe",NULL,NULL,NULL
+"K1742","Legionarion",NULL,NULL,NULL
+"K1757","Lentner",NULL,NULL,NULL
+"K1762","Lese-Zeichen e.V.","Lese-Zeichen e.V.",NULL,"Verein"
+"K1767","Lesezeichen, Schreibzirkel",NULL,NULL,NULL
+"K1768","Letterotik",NULL,NULL,NULL
+"K1771","Levia Ortega c/o Papyrus Autoren-Club",NULL,NULL,"Gemeinschaft"
+"K1776","Libretto","Libretto Antiquariat",NULL,NULL
+"K1782","Lichtungen – Verein für Literatur & Kunst",NULL,NULL,"Verein"
+"K1784","Liebe",NULL,NULL,NULL
+"K1789","Lilly M. Beck c/o Autorenglück.de",NULL,NULL,NULL
+"K1792","Lindemanns",NULL,NULL,NULL
+"K1797","Lit","Lit","Musik (Allgemeines), Musikgeschichte",NULL
+"K1798","LitArt-World",NULL,NULL,NULL
+"K1800","Litera Eurasia",NULL,NULL,NULL
+"K1801","LiteraFreakPress",NULL,NULL,NULL
+"K1802","Literareon",NULL,NULL,NULL
+"K1803","Literaricum GmbH",NULL,NULL,"Unternehmen"
+"K1810","Literatur Verein e.V., Linzgau","Linzgau Literatur Verein",NULL,"Verein"
+"K1812","Literatur und Bildende Kunst Bad Salzdetfurth und Umgebung e.V.","Literatur und Bildende Kunst Bad Salzdetfurth und Umgebung e.V.",NULL,"Verein"
+"K1814","LiteraturWissenschaft.de",NULL,NULL,NULL
+"K1817","Literaturhaus  und  Museumsges.",NULL,NULL,NULL
+"K1820","Literaturhaus Salzburg","Literaturhaus (Salzburg)",NULL,NULL
+"K1822","Literaturhaus e.V",NULL,NULL,NULL
+"K1824","Literaturkreis PromOtheus","Literaturkreis PromOtheus",NULL,"Gemeinschaft"
+"K1825","Literaturpodium","Literaturpodium","Einzelne Branchen der Industrie und des Handwerks",NULL
+"K1826","Literaturverein EDIT e. V.","Literaturverein Edit",NULL,"Verein"
+"K1828","Literaturwerkstatt Berlin","Literaturwerkstatt Berlin",NULL,NULL
+"K1829","Litopian e.V., Literarischer Förderverein",NULL,NULL,"Verein"
+"K1831","LizzyNet gGmbH","LizzyNet GmbH (Köln)","Einzelne Branchen der Industrie und des Handwerks","Unternehmen"
+"K1833","Loeven",NULL,NULL,NULL
+"K1839","Lontar","Lontar Foundation",NULL,NULL
+"K1843","Low",NULL,NULL,NULL
+"K1853","Lux, Christian",NULL,NULL,NULL
+"K1858","Lysandra Books",NULL,NULL,NULL
+"K1863","Lößnitz : GUC",NULL,NULL,NULL
+"K1867","M. K. E. Brandl",NULL,NULL,NULL
+"K1868","M. Porta",NULL,NULL,NULL
+"K1869","M. Schreckenberg, K. @Völlmicke und M. @Lamprecht",NULL,NULL,NULL
+"K1870","M. Zaffarana",NULL,NULL,NULL
+"K1872","M.A.C Medien Agentur Czellnik",NULL,NULL,NULL
+"K1877","MAM","Mam","Musik (Allgemeines), Musikgeschichte",NULL
+"K1878","MBS (Mijnbestseller Nederland B.V.)",NULL,NULL,NULL
+"K1881","MONS","Mons",NULL,NULL
+"K1884","MSC",NULL,NULL,NULL
+"K1885","MTA",NULL,NULL,NULL
+"K1892","Magazin SchreibRÄUME",NULL,NULL,NULL
+"K1896","Mainz",NULL,NULL,NULL
+"K1898","Maiwald",NULL,NULL,NULL
+"K1917","Marsam",NULL,NULL,NULL
+"K1918","Marsilius","Marsilius-Kolleg","Wissenschaft",NULL
+"K1934","Mayer",NULL,NULL,NULL
+"K1949","Mercator","Mercator-Gesellschaft","Geografie, Heimat- und Länderkunde (Allgemeines); Brauchtum, Volksglaube; Gruppe, Organisationssoziologie, Interaktion; Geschichte (Allgemeines)","Gemeinschaft"
+"K1955","Merziger-Pleban",NULL,NULL,NULL
+"K1958","Methusalem","Methusalem","Musik (Allgemeines), Musikgeschichte",NULL
+"K1960","Meyer & Meyer","Meyer & Meyer",NULL,NULL
+"K1961","Meyer & Meyer Verlag","Meyer & Meyer",NULL,NULL
+"K1962","Michael Düthorn",NULL,NULL,NULL
+"K1963","Michael, Schneider",NULL,NULL,NULL
+"K1973","Milke, Natalie",NULL,NULL,NULL
+"K1977","Ministère de l'education nationale et de la formation professionnelle","Ministère de l'Education Nationale et de la Formation Professionnelle",NULL,NULL
+"K1981","Mission Ost-West","Mission Ost-West e.V.",NULL,"Verein"
+"K1984","Mitten im Dorf",NULL,NULL,NULL
+"K1987","MobB e.V. c/o Jenaer Sprachverwender",NULL,NULL,"Verein"
+"K1990","Moerser Gesellschaft zur Förderung des literarischen Lebens e.V.",NULL,NULL,"Verein"
+"K1995","Mohorjeva Hermagoras","Private Volksschule Hermagoras-Mohorjeva","Schule","Bildungseinrichtung"
+"K2123","Otto",NULL,NULL,NULL
+"K2018","Muravidék Baráti Kör Kulturális Egyesület","Muravidék Baráti Kör Kulturális Egyesület",NULL,NULL
+"K2020","Museum.BL","Museum.BL","Archiv, Museum",NULL
+"K2023","Mymorawa von Morawa Lesezirkel GmbH","myMorawa",NULL,NULL
+"K2025","Möcker","Voigt & Mocker",NULL,NULL
+"K2028","Mösche","Kölsche Mösche","Musik (Allgemeines), Musikgeschichte",NULL
+"K2030","Müller",NULL,NULL,NULL
+"K2032","N. Mayr",NULL,NULL,NULL
+"K2037","NWM",NULL,NULL,NULL
+"K2038","Nacke","Hof Nacke","Rechtsgeschichte, Verfassungsgeschichte: Mittelalter; Landwirtschaft allgemein",NULL
+"K2044","Natalie Rabengut, Black Umbrella Publishing",NULL,NULL,NULL
+"K2050","Neopubli",NULL,NULL,NULL
+"K2060","Neumann-Neudamm","Neumann - Neudamm gmbh (Melsungen)",NULL,"Unternehmen"
+"K2066","Niedersachsen-Dr.",NULL,NULL,NULL
+"K2068","Nikol","Arbeitsgruppe NIKOL",NULL,"Gemeinschaft"
+"K2073","NordStern",NULL,NULL,NULL
+"K2076","Not Yet Media LTD",NULL,NULL,NULL
+"K2078","Nova MD","Nova Pharmaceutical Corporation (Baltimore, Md.)",NULL,NULL
+"K2082","OCM GmbH",NULL,NULL,"Unternehmen"
+"K2087","OVIS Deutschland GmbH",NULL,NULL,"Unternehmen"
+"K2092","Oberschlesisches Eichendorff-Kultur- und Begegnungszentrum","Górnośla̜skie Centrum Kultury i Spotkań Im. Eichendorffa w Łubowicach",NULL,NULL
+"K2093","Oculus Kreativ",NULL,NULL,NULL
+"K2102","Oldenburg e.V., Leseforum","Leseforum Oldenburg",NULL,"Gemeinschaft"
+"K2106","Olms-Weidmann",NULL,NULL,NULL
+"K2114","Ornament",NULL,NULL,NULL
+"K2115","Ortsmuseum Binningen","Ortsmuseum Binningen",NULL,NULL
+"K2117","Oschinger, Wolfgang",NULL,NULL,NULL
+"K2122","Osttiroler Bote Medienunternehmen Ges.m.b.H.","Osttiroler Bote","Presse",NULL
+"K2127","P & B",NULL,NULL,NULL
+"K2130","PIDAX",NULL,NULL,NULL
+"K2132","PODIUM – Literaturkreis Schloss Neulengbach",NULL,NULL,"Gemeinschaft"
+"K2134","PRO LYRICA","Stiftung Pro Lyrica",NULL,NULL
+"K2135","PRONG PRESS","Prong Press",NULL,NULL
+"K2142","Pallina, B.",NULL,NULL,NULL
+"K2152","Papermoon","Papermoon","Musik (Allgemeines), Musikgeschichte",NULL
+"K2159","Parlez",NULL,NULL,NULL
+"K2175","Pectus",NULL,NULL,NULL
+"K2179","Pendragon","Pendragon","Musik (Allgemeines), Musikgeschichte",NULL
+"K2182","Pensieri&Confronti Editore",NULL,NULL,NULL
+"K2184","PerNi Publishing Unlimited",NULL,NULL,NULL
+"K2192","Petri","Petri-Presse",NULL,NULL
+"K2193","Petrus",NULL,NULL,NULL
+"K2208","Plan9",NULL,NULL,NULL
+"K2210","Plaza",NULL,NULL,NULL
+"K2211","Plöchl",NULL,NULL,NULL
+"K2216","Polarise",NULL,NULL,NULL
+"K2220","Portmann",NULL,NULL,NULL
+"K2224","Preface Book",NULL,NULL,NULL
+"K2226","Pressel","Pressel & Kusch",NULL,NULL
+"K2238","Pro Lyrica Grundversorgung",NULL,NULL,NULL
+"K2242","ProMÖLLTAL - Initiative für Bildung, Kultur, Wirtschaft und Tourismus","ProMÖLLTAL - Initiative für Bildung, Kultur, Wirtschaft und Tourismus",NULL,NULL
+"K2243","Progressing-Your-Ideas-GmbH",NULL,NULL,"Unternehmen"
+"K2252","Publ.-Textgemeinschaft","Textgemeinschaft Publikationen",NULL,"Gemeinschaft"
+"K2254","Publishing, TORRO Kids",NULL,NULL,NULL
+"K2256","Puppen und Masken","Puppen und Masken","Einzelne Branchen der Industrie und des Handwerks",NULL
+"K2257","Puput Books",NULL,NULL,NULL
+"K2260","Pädagogische Forschungsstelle beim Bund der Freien Waldorfschulen","Pädagogische Forschungsstelle beim Bund der Freien Waldorfschulen",NULL,"Bildungseinrichtung"
+"K2261","Péter Pál Meleghy",NULL,NULL,NULL
+"K2263","Qindie","Qindie (Autorenkollektiv)",NULL,"Gemeinschaft"
+"K2267","Quartierverein Riesbach","Quartierverein Riesbach",NULL,"Verein"
+"K2275","Quiqueg",NULL,NULL,NULL
+"K2277","R. Hartmann","Rudolph Hartmann (Leipzig)",NULL,NULL
+"K2278","R. Schley",NULL,NULL,NULL
+"K2282","REGIA-CO-WORK",NULL,NULL,NULL
+"K2283","RISSE e.V.","Risse, Verein zur Förderung Neuer Literatur in Mecklenburg-Vorpommern",NULL,"Verein"
+"K2289","Raiffeisenbank Baden","Raiffeisenbank (Sandweier, Baden-Baden)","Einzelne Branchen der Industrie und des Handwerks",NULL
+"K2292","Randexistenz",NULL,NULL,NULL
+"K2294","Rasch",NULL,NULL,NULL
+"K2295","Rathke",NULL,NULL,NULL
+"K2297","Rauch",NULL,NULL,NULL
+"K2299","Raum Italic","RAUM Italic | SPAZIO Corsivo",NULL,NULL
+"K2303","Reche","Reche & Recall","Musik (Allgemeines), Musikgeschichte",NULL
+"K2306","Redaktion Phantastik",NULL,NULL,NULL
+"K2307","Redieck & Schade","Redieck & Schade GbR (Rostock)","Einzelne Branchen der Industrie und des Handwerks","Unternehmen"
+"K2313","Regio Energie Solothurn","Regio Energie Solothurn","Energie- und Wasserwirtschaft; Öffentliche Wirtschaft, Abfallwirtschaft, Gesundheitsökonomie",NULL
+"K2318","Reimer",NULL,NULL,NULL
+"K2322","Reinhardt",NULL,NULL,NULL
+"K2331","Renáta Baumann-Chybová",NULL,NULL,NULL
+"K2333","Residenzkaufhaus",NULL,NULL,NULL
+"K2337","Rheingauer Mundartverein e. V.","Rheingauer Mundartverein",NULL,"Verein"
+"K2344","Ring of light",NULL,NULL,NULL
+"K2350","Ritter",NULL,NULL,NULL
+"K2351","Ritter Klagenfurt","Kunsthalle Ritter (Klagenfurt)","Bildende Kunst",NULL
+"K2353","RoRo Hand & Kopfwerkstatt",NULL,NULL,NULL
+"K2356","Rodneys Underground Press",NULL,NULL,NULL
+"K2365","Romowe",NULL,NULL,NULL
+"K2368","Rosner",NULL,NULL,NULL
+"K2369","Rosspoint",NULL,NULL,NULL
+"K2370","Rostocker Frauenkulturverein Die Beginen e.V.","Beginen e.V.",NULL,"Verein"
+"K2374","Rotblatt, Kater",NULL,NULL,NULL
+"K2386","Roßdorf : Wolfbach",NULL,NULL,NULL
+"K2387","Rudolph",NULL,NULL,NULL
+"K2390","Ruhrliteratur",NULL,NULL,NULL
+"K2391","Ryckschau",NULL,NULL,NULL
+"K2395","Rüger",NULL,NULL,NULL
+"K2402","SCM","SCM",NULL,NULL
+"K2405","SE Stengel",NULL,NULL,NULL
+"K2407","SIGNUM e. V. Dresden",NULL,NULL,NULL
+"K2411","SPRACHFLECHTWERK",NULL,NULL,NULL
+"K2417","Sabrina Kossel, Milchbart Company Leipzig",NULL,NULL,NULL
+"K2418","SadWolf",NULL,NULL,NULL
+"K2425","SalonPresse",NULL,NULL,NULL
+"K2428","Salzgitter, Print & Lettershop",NULL,NULL,NULL
+"K2430","Samples","Samples","Musik (Allgemeines), Musikgeschichte",NULL
+"K2431","Sand",NULL,NULL,NULL
+"K2441","Satz und Druck Herrmann AG","Herrmann AG",NULL,NULL
+"K2442","SatzZeichen, Autorengruppe",NULL,NULL,"Gemeinschaft"
+"K2452","Scherz",NULL,NULL,NULL
+"K2455","Schiler","Schiler & Mücke",NULL,NULL
+"K2456","Schiler & Mücke","Schiler & Mücke",NULL,NULL
+"K2467","Schmid",NULL,NULL,NULL
+"K2469","Schmidt",NULL,NULL,NULL
+"K2472","Schmitz",NULL,NULL,NULL
+"K2475","Schneider",NULL,NULL,NULL
+"K2477","Schneider, Nadine",NULL,NULL,NULL
+"K2479","Schnider",NULL,NULL,NULL
+"K2481","Scholz",NULL,NULL,NULL
+"K2482","SchreibStimme",NULL,NULL,NULL
+"K2483","Schreibgruppe ausgewundert",NULL,NULL,"Gemeinschaft"
+"K2486","Schreibwaren Wegmann Inh. Janos Metz e. K.",NULL,NULL,NULL
+"K2493","SchumacherGebler",NULL,NULL,NULL
+"K2494","Schuster",NULL,NULL,NULL
+"K2495","Schwab, Jörg",NULL,NULL,NULL
+"K2497","Schwalbe",NULL,NULL,NULL
+"K2500","Schwarzer Drachen",NULL,NULL,NULL
+"K2506","Schäfer",NULL,NULL,NULL
+"K2510","Schönrock & Heikamp",NULL,NULL,NULL
+"K2513","Scribitur",NULL,NULL,NULL
+"K2516","Seeling","Galerie Seeling","Einzelne Branchen der Industrie und des Handwerks",NULL
+"K2536","Seniorenschreibtisch der Stadt Puchheim","Seniorenschreibtisch der Stadt Puchheim",NULL,NULL
+"K2544","Shakti & Sargam",NULL,NULL,NULL
+"K2547","Shutterstock","Shutterstock, Inc.","Einzelne Branchen der Industrie und des Handwerks",NULL
+"K2550","SiebenSchreiber","SiebenSchreiber",NULL,NULL
+"K2556","SilvForLife Design",NULL,NULL,NULL
+"K2559","Simonett & Baer","Simonett & Baer",NULL,NULL
+"K2573","Solar Plexus","Solar Plexus","Musik (Allgemeines), Musikgeschichte",NULL
+"K2581","Sonnenberg",NULL,NULL,NULL
+"K2585","Specht, Ulrich",NULL,NULL,NULL
+"K2589","Sphinx Agency",NULL,NULL,NULL
+"K2594","Springer","Springer","Musik (Allgemeines), Musikgeschichte",NULL
+"K2595","Sprudelkiste.com Gleißner",NULL,NULL,NULL
+"K2602","Stadt Hattingen","Hattingen",NULL,NULL
+"K2603","Stadt Hilden","Hilden (Stadt)",NULL,NULL
+"K2604","Stadt Ostseebad Rerik",NULL,NULL,NULL
+"K2605","Stadt Vechta","Vechta",NULL,NULL
+"K2606","Stadtbibliothek Prenzlau",NULL,NULL,NULL
+"K2607","Stadtgemeinde Perg","Perg",NULL,NULL
+"K2615","Steinmann",NULL,NULL,NULL
+"K2621","Stephenson, C","S. & C. Stephenson (London)",NULL,NULL
+"K2625","Stiftung Kantonsbibliothek Uri","Kantonsbibliothek Uri","Bibliothek, Information und Dokumentation",NULL
+"K2626","Stocker",NULL,NULL,NULL
+"K2630","Story Town - Derek Meister & Marion Meister GbR c/o Papyrus Autoren-Club",NULL,NULL,"Gemeinschaft"
+"K2638","Strozpress",NULL,NULL,NULL
+"K2643","Stumpp",NULL,NULL,NULL
+"K2651","Sure-Publishing","Sure-Publishing",NULL,NULL
+"K2658","Sylcho Studio",NULL,NULL,NULL
+"K2661","Süddt. Zeitung GmbH","Süddeutsche Zeitung GmbH","Presse; Einzelne Branchen der Industrie und des Handwerks","Unternehmen"
+"K2664","Südwest",NULL,NULL,NULL
+"K2665","TAK - Tiroler Autorinnen und Autoren Kooperative",NULL,NULL,NULL
+"K2667","TEXT/RAHMEN e.U.",NULL,NULL,NULL
+"K2669","THW Österreich",NULL,NULL,NULL
+"K2671","TRUANT UG",NULL,NULL,NULL
+"K2673","TWENTYSIX",NULL,NULL,NULL
+"K2687","Telesma",NULL,NULL,NULL
+"K2691","Text-Atelier Leipzig","Text-Atelier Leipzig",NULL,NULL
+"K2695","Textgemeinschaft, Anthologie",NULL,NULL,"Gemeinschaft"
+"K2700","The Dandy is Dead",NULL,NULL,NULL
+"K2708","Thomas Mann-Gesellschaft Hamburg","Thomas Mann-Gesellschaft Hamburg",NULL,"Gemeinschaft"
+"K2711","Thon",NULL,NULL,NULL
+"K2718","ToMa",NULL,NULL,NULL
+"K2725","Totechöpfli",NULL,NULL,NULL
+"K2730","Trautmann",NULL,NULL,NULL
+"K2733","Treibhaus e.V.","Treibhaus e.V.",NULL,"Verein"
+"K2739","Trottoir Noir",NULL,NULL,NULL
+"K2742","Trägerverein Werkraum Abersee und Kulturhauptstadt 2024 Salzkammergut",NULL,NULL,"Verein"
+"K2749","Typo.M",NULL,NULL,NULL
+"K2750","Typostudio Schumacher-Gebler","Schumacher-Gebler",NULL,NULL
+"K2752","TösterKultur e.V.","TösterKultur e. V.",NULL,NULL
+"K2755","UBV","Unternehmen.Bilden.Vielfalt (UBV) e.V.",NULL,"Verein"
+"K2759","Ulisses Spiele",NULL,NULL,NULL
+"K2773","Univ. Palackého","Univerzita Palackého v Olomouci","Hochschule",NULL
+"K2780","Universo","Grupo Universo",NULL,NULL
+"K2786","V. F. Sammler",NULL,NULL,NULL
+"K2790","VEG",NULL,NULL,NULL
+"K2794","VF Die Fontäne",NULL,NULL,NULL
+"K2797","VNA","VNA","Musik (Allgemeines), Musikgeschichte",NULL
+"K2800","VS",NULL,NULL,NULL
+"K2803","VTA",NULL,NULL,NULL
+"K2806","Vallentin",NULL,NULL,NULL
+"K2813","Verband deutscher Schriftstellerinnen und Schriftsteller in ver.di – Landesverband Bayern, Verband deutscher Schriftstellerinnen und Schriftsteller in ver.di –. Landesverband",NULL,NULL,"Verband"
+"K2815","Verein ALSO (Anno Literatur Sonntag)","Verein ALSO - Anno Literatur SOnntag",NULL,"Verein"
+"K2817","Verein Frauenhäuser Steiermark, Verein Frauenhäuser","Frauenhäuser Steiermark - Verein zur Soforthilfe für Bedrohte und Misshandelte Frauen und Deren Kinder",NULL,"Verein"
+"K2818","Verein Glitter","Verein Glitter",NULL,"Verein"
+"K2819","Verein Gruppe Wespennest","Verein Gruppe Wespennest",NULL,"Verein"
+"K2820","Verein Literaturgruppe Perspektive","Literaturgruppe Perspektive",NULL,"Gemeinschaft"
+"K2821","Verein Salzburger Literaturforum Leselampe",NULL,NULL,"Verein"
+"K2822","Verein Zeitschrift delirium","Verein Delirium",NULL,"Verein"
+"K2823","Verein zur Förderung der Raumfahrt e.V.","Verein zur Förderung der Raumfahrt",NULL,"Verein"
+"K2824","Verein zur Förderung des Literaturschaffens zwischen Deutschen und Polen","Verein zur Förderung des Literaturschaffens und des Kulturellen Austauschs zwischen Deutschen und Polen",NULL,"Verein"
+"K3060","Vesi",NULL,NULL,NULL
+"K3069","Violet Truelove",NULL,NULL,NULL
+"K3072","Vja",NULL,NULL,NULL
+"K3084","Vögel",NULL,NULL,NULL
+"K3088","WESER-KURIER, Kulturredaktion, Dr. Hendrik Werner",NULL,NULL,NULL
+"K3107","Wallimann","Jodlerfamilie Wallimann",NULL,NULL
+"K3109","WandelWerk Publishing",NULL,NULL,NULL
+"K3110","Wanner Publishing","Wanner Brothers Publishing (Baden, Limmat)","Einzelne Branchen der Industrie und des Handwerks",NULL
+"K3113","Wasserburg Rindern","Wasserburg Rindern (Kleve, Kreis Kleve)","Ortsgebundene Bauwerke","Gemeinschaft"
+"K3114","WattLiteraten, Autorengemeinschaft","WattLiteraten (Körperschaft)",NULL,NULL
+"K3115","Wattpad corp.",NULL,NULL,NULL
+"K3118","Weber",NULL,NULL,NULL
+"K3121","Weg und Ziel",NULL,NULL,NULL
+"K3122","Weger",NULL,NULL,NULL
+"K3125","WeimarArt",NULL,NULL,NULL
+"K3126","Weimarer Schiller-Presse",NULL,NULL,NULL
+"K3130","Weisz auf Schwarz – Literatuzeitschrift",NULL,NULL,NULL
+"K3131","Weitschat",NULL,NULL,NULL
+"K3135","Weltbild","Weltbild (Berlin)",NULL,NULL
+"K3141","Wenner",NULL,NULL,NULL
+"K3142","Wenng","Gebrüder Wenng",NULL,NULL
+"K3143","Wenz",NULL,NULL,NULL
+"K3148","Werkkreis Literatur der Arbeitswelt - Werkstatt Wien","Werkkreis Literatur der Arbeitswelt (Wien)",NULL,"Gemeinschaft"
+"K3151","Werner Schüller",NULL,NULL,NULL
+"K3152","Westarp BookOnDemand",NULL,NULL,NULL
+"K3155","Westfälische Wilhelms-Universität Münster, Zentrale Kustodie",NULL,NULL,"Bildungseinrichtung"
+"K3157","WeyTeCon Förlag",NULL,NULL,NULL
+"K3158","WeyTeCon Förlag (WF)",NULL,NULL,NULL
+"K3159","Weyand",NULL,NULL,NULL
+"K3164","Wiener Volkshochsch.","Die Wiener Volkshochschulen","Schule","Bildungseinrichtung"
+"K3170","Wind Child Publishing",NULL,NULL,NULL
+"K3171","Wind und Sterne",NULL,NULL,NULL
+"K3174","Windspiel","Windspiel","Musik (Allgemeines), Musikgeschichte",NULL
+"K3175","WirFinden.Es Naß und Hellie GbR",NULL,NULL,"Unternehmen"
+"K3187","Wolf",NULL,NULL,NULL
+"K3199","Wortspieler","Die Wortspieler",NULL,NULL
+"K3215","Yellow King Productions",NULL,NULL,NULL
+"K3217","Youcanprint",NULL,NULL,NULL
+"K3218","Young Stories, Frankfurt",NULL,NULL,NULL
+"K3222","Zenker, Jan M.",NULL,NULL,NULL
+"K3223","Zenkert",NULL,NULL,NULL
+"K3227","Ziethen","Grube Ziethen","Bergbau, Hüttentechnik",NULL
+"K3232","Zürcher Kantonalbank","Zürcher Kantonalbank","Bank; Einzelne Branchen der Industrie und des Handwerks",NULL
+"K3234","[kon] Paper e.V.",NULL,NULL,"Verein"
+"K3238","alit - Verein Literaturstiftung","alit - Verein Literaturstiftung",NULL,"Verein"
+"K3239","alit - Verein Literaturstiftung Zürich",NULL,NULL,"Verein"
+"K3242","amarto",NULL,NULL,NULL
+"K3244","artkonzeptkörner","artkonzeptkörner",NULL,NULL
+"K3247","aws Literatur",NULL,NULL,NULL
+"K3250","beTHRILLED",NULL,NULL,NULL
+"K3252","belkastudio",NULL,NULL,NULL
+"K3258","brennt! GmbH",NULL,NULL,"Unternehmen"
+"K3265","c/o autorenglück.de, Stina Milner",NULL,NULL,NULL
+"K3267","camino",NULL,NULL,NULL
+"K3268","cap-books",NULL,NULL,NULL
+"K3273","comediantes","Comediantes",NULL,NULL
+"K3274","container press",NULL,NULL,NULL
+"K3275","creomira",NULL,NULL,NULL
+"K3280","danube books",NULL,NULL,NULL
+"K3281","de La Porte",NULL,NULL,NULL
+"K3284","der VHS-Baar, Kreative Schreibwerkstatt",NULL,NULL,NULL
+"K3285","der blaue reiter","Der Blaue Reiter","Malerei; Bildende Kunst",NULL
+"K3288","dissertation.de",NULL,NULL,NULL
+"K3291","duotincta",NULL,NULL,NULL
+"K3296","ebersbach & simon",NULL,NULL,NULL
+"K3298","echt EMF",NULL,NULL,NULL
+"K3336","editum",NULL,NULL,NULL
+"K3342","fabrik.transit","Literatur- und Kunstverein fabrik.transit",NULL,"Verein"
+"K3349","fineBooks",NULL,NULL,NULL
+"K3350","fortfolgendes",NULL,NULL,NULL
+"K3353","für neues bewusst-sein",NULL,NULL,NULL
+"K3355","guhl glaser, st.",NULL,NULL,NULL
+"K3357","hkk Krankenkasse","hkk","Einzelne Branchen der Industrie und des Handwerks",NULL
+"K3360","holapress",NULL,NULL,NULL
+"K3363","ib-lyric, artfactory",NULL,NULL,NULL
+"K3365","ideaFactory Geiler, Thiessen & Uhlig GbR",NULL,NULL,"Unternehmen"
+"K3374","kuk","KUK Electronic",NULL,NULL
+"K3375","kukma - Kunst- und Kulturverein",NULL,NULL,"Verein"
+"K3379","lebema.ch",NULL,NULL,NULL
+"K3383","literatur:vorarlberg",NULL,NULL,NULL
+"K3389","manitu-books",NULL,NULL,NULL
+"K3390","manuskripte-Literaturverein",NULL,NULL,"Verein"
+"K3394","maudrich","Wilhelm Maudrich (Wien)",NULL,NULL
+"K3395","mbassador GmbH",NULL,NULL,"Unternehmen"
+"K3398","meinbesteller.de",NULL,NULL,NULL
+"K3399","menani GmbH",NULL,NULL,"Unternehmen"
+"K3402","modo","Modo","Musik (Allgemeines), Musikgeschichte",NULL
+"K3407","myMorawa","myMorawa",NULL,NULL
+"K3409","münstermann",NULL,NULL,NULL
+"K3412","netzbuchladen.de",NULL,NULL,NULL
+"K3415","octOpus",NULL,NULL,NULL
+"K3418","ostbooks",NULL,NULL,NULL
+"K3420","p.l.o.t. e.V.",NULL,NULL,"Verein"
+"K3422","parasitenpresse",NULL,NULL,NULL
+"K3425","peppair GmbH",NULL,NULL,"Unternehmen"
+"K3427","plV-Media",NULL,NULL,NULL
+"K3428","plattform",NULL,NULL,NULL
+"K3430","pro Monstein","pro Monstein",NULL,NULL
+"K3436","pyjamaguerilleros",NULL,NULL,NULL
+"K3439","radio 3",NULL,NULL,NULL
+"K3441","rbb","RBB & Cie",NULL,NULL
+"K3443","read4joy",NULL,NULL,NULL
+"K3446","rohumedia",NULL,NULL,NULL
+"K3450","scius",NULL,NULL,NULL
+"K3451","scribaria","Scribaria (Körperschaft)",NULL,NULL
+"K3452","scridelio",NULL,NULL,NULL
+"K3454","smp, swb media publishing",NULL,NULL,NULL
+"K3457","spree-books (spree-media.net GmbH)",NULL,NULL,"Unternehmen"
+"K3460","story.one",NULL,NULL,NULL
+"K3462","swiboo.ch","swiboo.ch",NULL,NULL
+"K3464","telegonos-publishing",NULL,NULL,NULL
+"K3465","thrillercriminal.com Community",NULL,NULL,NULL
+"K3466","tolino media",NULL,NULL,NULL
+"K3471","tunkan",NULL,NULL,NULL
+"K3473","uli-jungbluth-press",NULL,NULL,NULL
+"K3476","vabaduse.de",NULL,NULL,NULL
+"K3499","wir sind lesenswert – Verein für Literatur",NULL,NULL,"Verein"
+"K3500","wirschreibenfürahrweiler, Autorengemeinschaft",NULL,NULL,"Gemeinschaft"
+"K3501","wortbau e.V.","Schreibende Schüler e.V.",NULL,"Verein"
+"K3505","www.hairfashionplus.ch",NULL,NULL,NULL
+"K3506","www.ideenteufel.de",NULL,NULL,NULL
+"K3509","xlibri","xlibri.de (Firma)",NULL,"Unternehmen"
+"K3510","zebra bw","Zentrale Beratungsstelle für Weltanschauungsfragen BW",NULL,NULL
+"K3512","zocher & peter",NULL,NULL,NULL
+"K3515","Çizgi Kitabevi",NULL,NULL,NULL
+"K3516","Èditions à la Carte","Éditions à la Carte",NULL,NULL
+"K3517","Éd. L'Oreille du Loup",NULL,NULL,NULL
+"K3518","Éd. Saint-Paul",NULL,NULL,NULL
+"K3520","Írott Szó Alapítvány",NULL,NULL,NULL
+"K3521","ÖBB Personenverkehr AG, Personalmanagement Kärnten",NULL,NULL,NULL
+"K3523","Österreichische Literaturgesellschaft","Österreichische Literaturgesellschaft",NULL,"Gemeinschaft"
+"K3524","Österreichischer Schriftsteller/innenverband","Österreichischer Schriftsteller/Innenverband",NULL,"Verband"
+"K3525","Österreichisches Literaturforum","Österreichisches Literaturforum",NULL,"Gemeinschaft"
