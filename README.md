@@ -1,4 +1,5 @@
 # Dies ist das Repository des Dissertationsprojekts "Kurzes Erzählen im 21. Jahrhundert - Entstehungsbedingungen und Aneignungspotenziale kurzer Erzählformen in der Gegenwart" 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20125609.svg)](https://doi.org/10.5281/zenodo.20125609)
 
 # Worum geht es? 
 Im Zuge des Projekts wurde quantitativ untersucht, unter welchen öffentlichen Rahmenbedingungen kurze Erzählformen gegenwärtig (d.h. im Zeitraum 2008-2023) entstehen und welche Effekte sie potenziell auf sie umgebende Umwelten haben können. Hierfür wurde ein umfassendes Datenkorpus mit Informationen zu kurzen Erzählformen, zu den für sie relevanten Publikationssegmenten (Bücher, Literaturzeitschriften, Literaturwettbewerbe, Social-Reading-Plattformen) und den Akteuren, die an ihrer Entstehung, Verbreitung und Rezeption direkt beteiligt sind, erstellt. Die Daten zu kurzen Erzählformen und Literaturzeitschriften, Literaturwettbewerben sowie Social-Reading-Plattformen wurden eigenständig recherchiert und zusammengetragen. Die Daten zu kurzen Erzählformen und Büchern entstammen dem bibliografischen Gesamtbestand der Deutschen Nationalbibliothek. 
