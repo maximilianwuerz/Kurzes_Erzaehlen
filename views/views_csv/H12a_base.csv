@@ -5007,7 +5007,6 @@
 "P16630","Seuthe, Dieter David",2022,"B",71,False
 "P16632","Severin, Georgie",2022,"B",NULL,NULL
 "P16635","Seydlitz, Lisa-Maria",2014,"LZ",29,True
-"P16636","Seyer, Walle",2022,"LZ",62,False
 "P16637","Seyfarth, Jürgen",2012,"B",62,False
 "P16638","Seyfried, Rolf Gregor",2022,"B",53,False
 "P16639","Seyhan, Monika",2018,"B",70,False
@@ -6281,7 +6280,7 @@
 "P18337","Tucek, Gerhard",2020,"B",64,False
 "P18338","Tucholsky, Kurt",2011,"B",121,False
 "P18339","Tucker, Wilson",2022,"B",108,False
-"P1834","Borchardt, Rudolf",2016,"LZ",139,False
+"P1834","Borchardt, Rudolf",2018,"B",141,False
 "P18340","Tuckermann, Anja",2013,"B",52,False
 "P18341","Tuja",2019,"B",NULL,NULL
 "P18342","Tukur, Ulrich",2008,"B",51,False
@@ -11580,7 +11579,6 @@
 "P24027",NULL,2015,"OP",20,True
 "P24028",NULL,2021,"OP",NULL,NULL
 "P24029",NULL,2020,"OP",18,True
-"P2403","Buselmeier, Michael",2012,"LZ",74,False
 "P24030",NULL,2014,"OP",15,True
 "P24031",NULL,2012,"OP",15,True
 "P24032",NULL,2010,"OP",NULL,NULL
@@ -13995,6 +13993,7 @@
 "P26344",NULL,2013,"OP",21,True
 "P26345",NULL,2008,"OP",NULL,NULL
 "P26346",NULL,2013,"OP",NULL,NULL
+"P26358","Breh, Laura",2021,"LZ",NULL,NULL
 "P2636","Capadrutt, Hans",2023,"B",73,False
 "P2638","Capiti, Carmen",2018,"B",30,False
 "P2639","Capote, Truman",2015,"B",91,False
@@ -15144,7 +15143,7 @@
 "P4146","Estenfeld-Kropp, Christa",2022,"B",75,False
 "P4147","Estep, Jennifer",2020,"B",NULL,NULL
 "P4148","Esterluß, Klaus",2020,"B",42,False
-"P4149","Estis, Alexander",2017,"LZ",31,False
+"P4149","Estis, Alexander",2020,"B",34,False
 "P4151","Etolsch, Noiram",2019,"B",NULL,NULL
 "P4152","Ettl, Peter Jeremy",2014,"B",60,False
 "P4153","Etz, Elisabeth",2020,"B",41,False
@@ -17247,7 +17246,6 @@
 "P7","*...*, >;<",2015,"OP",NULL,NULL
 "P70","Aceval, Naceur-Charles",2017,"B",NULL,NULL
 "P700","Badtke, Karen",2014,"B",74,False
-"P7000","Herrmann-Neiße, Max",2015,"LZ",119,False
 "P7003","Herterich, Klaus W.",2008,"B",72,False
 "P7004","Hertl,  Michael",2017,"B",NULL,NULL
 "P7006","Hertting, Maria",2016,"B",NULL,NULL
@@ -17678,7 +17676,6 @@
 "P7618","Huyoff, Erik",2018,"B",NULL,NULL
 "P7620","Huß, Heidi",2013,"B",74,False
 "P7621","Hvid, Unna",2023,"B",NULL,NULL
-"P7622","Hvorecky, Michael",2008,"LZ",32,False
 "P7624","Hyrtl, Elisabeth",2023,"B",NULL,NULL
 "P7626","Häckel, Hans",2015,"B",77,False
 "P7627","Häfliger, Eduard",2011,"B",70,False
