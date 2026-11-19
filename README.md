@@ -33,8 +33,8 @@ Die Tabelle umfasst damit für Sinn und Form 97 kurze Erzählformen in 51 Heften
 
 Darüber hinaus wurde das Verzeichnis /views bereinigt: Die CSV-Dateien zu H5, H6b_literaturferne_beteiligungen und H8c_manifestationen wurden auf den Stand der Datenbank gebracht, die fehlenden Dateien H5b_gew.csv, H8b_auflagenhoehe_zeitschriften.csv und H8b_publikationszyklus.csv ergänzt und H4a-trend.csv in H4a_trend.csv umbenannt. Entfernt wurden eine doppelte Datei (H1a-abs.csv), veraltete Dateien ohne zugehörige Abfrage (H6b_literaturferne_beteiligungen_gestaffelt.csv, H6b_literaturferne_beteiligungen_gestaffelt_gew.csv, H7c_autoren_pre_post_norm.csv) sowie die in der Arbeit nicht verwendeten Abfragen H2a_laufzeit, H2a_laufzeit_kat und H2a_laufzeit_kat2.
 
-## Version 1.0.0 (Mai 2026)
-Fassung zum Zeitpunkt der Einreichung der Dissertation.
+## Versionen 1.0.0 und 1.0.1 (Mai 2026)
+Erstveröffentlichung des Repositorys zur Dissertation.
 
 # Kontakt
 - Email: [maximilian.wuerz@fau.de](mailto:maximilian.wuerz@fau.de)
